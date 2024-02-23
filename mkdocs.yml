@@ -34,10 +34,10 @@ theme:
     # - navigation.tabs
     - navigation.path
 
-plugins:
-  - search
-  - minify:
-      minify_html: true
+# plugins:
+# - search
+# - minify:
+#   minify_html: true
 
 markdown_extensions:
   - attr_list
