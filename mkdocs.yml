@@ -20,14 +20,16 @@ theme:
     # Palette toggle for light mode
     - scheme: default
       toggle:
-        icon: material/brightness-7
+        icon: material/toggle-switch-off-outline
         name: Switch to dark mode
-
-    # Palette toggle for dark mode
+      primary: indigo
+      accent: purple
     - scheme: slate
       toggle:
-        icon: material/brightness-4
+        icon: material/toggle-switch
         name: Switch to light mode
+      primary: indigo
+      accent: blue
 
   features:
     - navigation.sections
