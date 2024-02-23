@@ -83,10 +83,12 @@ While there are times using passive voice and future tense is appropriate, alway
 Active voice makes content clear by indicating who or what performs the action, even when the subject is implied. Minimize the use of passive voice in your writing.
 
 **Correct**
+
 Select Print to print the document.
 The forwarder sends data to the receiver.
 
 **Incorrect**
+
 When the Print button is selected, the document is printed. Data is sent to the receiver.
 
 ### Present tense
@@ -94,9 +96,11 @@ When the Print button is selected, the document is printed. Data is sent to the 
 Present tense allows readers to experience the documentation while they read it. Minimize the use of past tense or future tense in your writing.
 
 **Correct**
+
 The summary statistics continue to calculate allowed items, but the items don't appear in the dashboard. All apps are processed through the tool before they are published to HIDbase.
 
 **Incorrect**
+
 The summary statistics will continue to calculate allowed items, but they will not be displayed in the dashboard.
 All apps will now be processed through the tool before being published to HIDbase.
 
@@ -108,6 +112,7 @@ Use indicative or imperative mood
 The indicative mood states facts. The imperative mood expresses commands or requests. Use these two moods when writing HID docs.
 
 **Correct**
+
 You can send data to the indexer by using a forwarder. Send data to the indexer by using a forwarder.
 The forwarder sends data to the indexer.
 
@@ -120,9 +125,11 @@ The subjunctive mood expresses doubt and causes confusion over whether you're ma
 - could
 
 **Correct**
+
 For security reasons, give only administrators access to this instance. The example shows a type of script you can create for your deployment. Start by setting up a new stanza in the transforms.conf file.
 
 **Incorrect**
+
 For security reasons, only administrators should have access to this instance. The example shows a type of script you would create for your deployment.
 You could start by setting up a new stanza in transforms.conf.
 
@@ -131,7 +138,9 @@ You could start by setting up a new stanza in transforms.conf.
 Anthropomorphism is attributing human characteristics to inanimate objects. Computers don't think, want, worry, or do other things that are uniquely human. Avoid anthropomorphisms in your writing.
 
 **Correct**
+
 The forwarder sends data to the location that you set in the configuration file. Processing components process the data.
 
 **Incorrect**
+
 The configuration file tells the forwarder where to send the data. Processing components handle the data.
