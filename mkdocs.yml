@@ -2,7 +2,8 @@ site_name: HID Tech Pubs Style Guide
 site_url: https://example.com/
 theme:
   name: material
-  logo: assets/tech-pubs-logo.svg
+  logo: assets/images/tech-pubs-logo.svg
+  favicon: assets/images/favicon.ico
 
   # features:
   #  - navigation.tabs
@@ -30,5 +31,17 @@ theme:
 
   features:
     - navigation.sections
-    - navigation.tabs
+    # - navigation.tabs
     - navigation.path
+
+plugins:
+  - search
+  - minify:
+      minify_html: true
+
+extra_css:
+  - stylesheets/extra.css
+
+nav:
+  - Home: "index.md"
+  - About: "about.md"
