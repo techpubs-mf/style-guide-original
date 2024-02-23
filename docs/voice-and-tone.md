@@ -70,7 +70,7 @@ See the following table for examples of how to include indicating nouns:
 | `map_get()` extracts nested values from attributes. |	Use the `map_get()` function to extract nested values from the attributes field. |
 | Auth header is included by default, unless `noAuth` is set. |	The auth header is included by default, unless the `noAuth` flag is set. |
 | If you use start.ini to define JVM arguments, add `javaagent` after `--exec`. | If you use the start.ini file to define JVM arguments, add the `javaagent` argument after the `--exec` option. |
-| Run the following to start in dev mode:<br />`yarn run start` | From the command line, run the following command to start your app in develop mode:<br />`yarn run start` |
+| Run the following to start in dev mode:<br>`yarn run start` | From the command line, run the following command to start your app in develop mode:<br>`yarn run start` |
 
 ## Be active and present
 
