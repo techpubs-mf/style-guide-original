@@ -22,4 +22,4 @@ For style issues that aren't covered in this guide, see Where to look if the HID
 
 ## Questions, comments, or feedback about the HID Tech Pubs Style Guide
 
-If you have questions, comments, or feedback about the HID Tech Pubs Style Guide, post it in the [Tech Pubs Style Guide Teams channel](https://teams.microsoft.com/l/channel/19%3A14d75354543441c4b11ab6f444d206c8%40thread.skype/Style Guide?groupId=c1335fa1-fd3c-49da-9197-621fe1dcdc2f&tenantId=f0bdc1c9-5148-4f86-ac40-edd976e1814c){:target="_blank"}.
+If you have questions, comments, or feedback about the HID Tech Pubs Style Guide, post it in the [Tech Pubs Style Guide Teams channel](<https://teams.microsoft.com/l/channel/19%3A14d75354543441c4b11ab6f444d206c8%40thread.skype/Style Guide?groupId=c1335fa1-fd3c-49da-9197-621fe1dcdc2f&tenantId=f0bdc1c9-5148-4f86-ac40-edd976e1814c>){:target="_blank"}.
