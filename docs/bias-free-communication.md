@@ -36,7 +36,7 @@ The following table provides examples of biased language along with suggested al
 | Disable, disabled, disables | Deactivate, deactivated, deactivates, deselect, deselected, deselects, hide, hidden, hides, inactive, turn off, turned off, turns off, unavailable, makes unavailable | Divisive, disparaging |
 | First-class entity | Top-level entity | Divisive |
 | Flesh-colored, skin-toned | Dark brown, cream, beige | Color bias |
-| Grandfathered	| Exempt | Gendered language, racist |
+| Grandfathered | Exempt | Gendered language, racist |
 | He, him, his, she, her, hers | You, your, they, their, them, a user, the users | Gendered language, sexist |
 | Illegal characters | Invalid characters | Disparaging |
 | Mankind | All, everyone, humanity, humankind | Gendered language, sexist |
@@ -78,7 +78,7 @@ If you're tempted to use a device-specific gesture when the user has the option 
 
 "Enter" and "select" work well for most situations and devices.
 
-**Enter**
+#### Enter
 
 Use "enter" when referring to the inputting of text. See the following examples:
 
@@ -88,7 +88,7 @@ Use "enter" when referring to the inputting of text. See the following examples:
 | Enter your password. | Type your password. |
 | Enter your search in the search bar. | Type your search in the search bar. |
 
-**Select**
+#### Select
 
 Use "select" when referring to highlighting text, clicking a link, choosing menu items, clicking a button or tab, pressing keys on a keyboard, or interacting with a touch-based user interface. See the following examples:
 
@@ -97,7 +97,7 @@ Use "select" when referring to highlighting text, clicking a link, choosing menu
 | Select the text that you want to copy. | Right-click the text that you want to copy. |
 | Select the link. | Click the link. |
 | Select the container folder to open it. | Double-click the container folder to open it. |
-| Select a time period from the drop-down menu.	| Choose a time period from the drop-down menu. |
+| Select a time period from the drop-down menu. | Choose a time period from the drop-down menu. |
 | Select **Modify**. | Click **Modify**. |
 | Select the **Patterns** tab. | Click the **Patterns** tab. |
 | Select **Esc**. | Press **Esc**. |

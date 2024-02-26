@@ -109,7 +109,7 @@ Keep tables as simple as possible. Complicated tables that contain lists or merg
 
 Here are some accessibility best practices for tables:
 
-- If you need to leave a table cell blank, add a nonbreaking space to the cell instead of leaving it empty. The HTML character entity for a nonbreaking space is **`&nbsp;`**.
+- If you need to leave a table cell blank, add a non-breaking space to the cell instead of leaving it empty. The HTML character entity for a non-breaking space is **`&nbsp;`**.
 - Avoid merging or splitting table cells.
 - Don't use X or another character to indicate compatibility or support. Instead, use Yes and No. See Spell out words and symbols for more information.
 
@@ -119,7 +119,7 @@ For more guidance on using tables, see Best practices for including tables.
 
 Follow this guidance when using lists in your documentation:
 
-- Keep lists and sublists simple.
+- Keep lists and sub-lists simple.
 - Ensure that each item in the list uses parallel construction.
 - Don't include more than one item, idea, or action in a single list item.
 

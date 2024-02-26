@@ -18,7 +18,7 @@ The following table shows examples of writing that are too formal, too casual, a
 
 |  **Too formal** | **Too casual**  | **Just right**  |
 |---|---|---|
-|  Note that HID Enterprise Security automatically enables SSL; therefore, confirm that the protocol in your web browser is "https" (for example: https://HIDserver:8000). |  ES enables SSL, so you might want to make sure that your web browser is using HTTPS, like in https://HIDserver:8000. | HID Enterprise Security enables SSL. Check that the web browser protocol uses HTTPS. For example, https://HIDserver:8000.x |
+|  Note that HID Enterprise Security automatically enables SSL; therefore, confirm that the protocol in your web browser is "https" (for example: <https://HIDserver:8000>). |  ES enables SSL, so you might want to make sure that your web browser is using HTTPS, like in <https://HIDserver:8000>. | HID Enterprise Security enables SSL. Check that the web browser protocol uses HTTPS. For example, <https://HIDserver:8000.x> |
 | Please select the **Complete** button to complete the process and display the result.  |  When you select **Complete** and you see the result, you know you are done. Way to go! |  Select **Complete**. |
 | The information about the KV store status can be retrieved from the `kvstore/status` endpoint via the GET method.  |  Do a GET on the `kvstore/status` endpoint. | Submit a GET request to the `kvstore/status` endpoint to access KV store status information. |
 | Forwarder management is a graphical user interface (GUI) that is built on top of the deployment server and offers a streamlined solution to configure the deployment server and monitor the status of deployment updates. | The forwarder management GUI lives on top of the deployment server. The GUI makes it easy to configure your server while monitoring any updates that might come up. | You can configure the deployment server and monitor the status of deployment updates with the forwarder management graphical interface. |
@@ -67,8 +67,8 @@ See the following table for examples of how to include indicating nouns:
 | **Missing indicating nouns** | **Indicating nouns included** |
 |---|---|
 | Do a GET. | Submit a GET request. |
-| `map_get()` extracts nested values from attributes. |	Use the `map_get()` function to extract nested values from the attributes field. |
-| Auth header is included by default, unless `noAuth` is set. |	The auth header is included by default, unless the `noAuth` flag is set. |
+| `map_get()` extracts nested values from attributes. | Use the `map_get()` function to extract nested values from the attributes field. |
+| Auth header is included by default, unless `noAuth` is set. | The auth header is included by default, unless the `noAuth` flag is set. |
 | If you use start.ini to define JVM arguments, add `javaagent` after `--exec`. | If you use the start.ini file to define JVM arguments, add the `javaagent` argument after the `--exec` option. |
 | Run the following to start in dev mode:<br>`yarn run start` | From the command line, run the following command to start your app in develop mode:<br>`yarn run start` |
 
