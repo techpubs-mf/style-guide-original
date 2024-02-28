@@ -43,6 +43,7 @@ theme:
 
 markdown_extensions:
   - attr_list
+  - admonition
 
 extra_css:
   - stylesheets/extra.css
@@ -59,3 +60,4 @@ nav:
   - Images: "images.md"
   - Links: "links.md"
   - Lists: "lists.md"
+  - Notes and cautions: "notes-and-cautions.md"
