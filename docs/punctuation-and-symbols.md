@@ -95,7 +95,7 @@ Use angle brackets as a placeholder for variables you want the user to enter.
 
 | **Correct** | **Incorrect** |
 |---|---|
-| Enter your user-specified domain in this format: <https://<user-specified domain>.HIDcloud.com>. | Enter your user-specified domain in this format: <https://{user-specified domain}.HIDcloud.com>.<br>Enter your user-specified domain in this format: <https://(user-specified domain).HIDcloud.com><br>Enter your user-specified domain in this format: <https://[user-specified domain].HIDcloud.com> |
+| Enter your user-specified domain in this format: `https://<user-specified domain>.HIDcloud.com`. | Enter your user-specified domain in this format: `https://{user-specified domain}.HIDcloud.com`.<br>Enter your user-specified domain in this format: `https://(user-specified domain).HIDcloud.com<`br>Enter your user-specified domain in this format: `https://[user-specified domain].HIDcloud.com` |
 
 Do not use the right-pointing angle bracket ( > ) to indicate navigation through a series of menu item selections. Instead, spell out the sentence using a word like "then".
 
@@ -119,7 +119,7 @@ Use square brackets around a .conf file stanza name or within code.
 
 | **Correct** | **Incorrect** |
 |---|---|
-| Edit the `[HIDtcp]` stanza.<br>Specify a subsearch that starts with this search command: `tag=dns query [search tag=malware]`. | Enter your user-specified domain in this format: <https://[user-specified domain].HIDcloud.com>. |
+| Edit the `[HIDtcp]` stanza.<br>Specify a subsearch that starts with this search command: `tag=dns query [search tag=malware]`. | Enter your user-specified domain in this format: `https://[user-specified domain].HIDcloud.com`. |
 
 ## Colon
 
