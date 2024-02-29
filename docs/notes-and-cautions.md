@@ -21,7 +21,7 @@ Follow these guidelines when you use note and caution callout boxes:
 - Include links in notes or cautions only if the link helps the reader complete the task or is essential to their understanding of the content.
 - Don't use other tags, styles, formatting, or words for notes and cautions inside the callout boxes. For example, don't use the term "Important" or "Tip" as a note label. The term "Warning" is used for danger and injury and is generally associated with hardware documentation.
 
-For more guidance on when to use each type of callout box, see Note callout boxes and Caution callout boxes.
+For more guidance on when to use each type of callout box, see [Note callout boxes](#note-callout-boxes) and [Caution callout boxes](#caution-callout-boxes).
 
 ## Note callout boxes
 
