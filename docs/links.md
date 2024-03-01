@@ -11,7 +11,7 @@ Before adding links into your content, consider these best practices:
 - Don't include links in the first paragraph of a topic.
 - Provide critical information in your topic, not in linked information.
 - Weigh any cost of including a link, such as distraction or confusion to the reader, against the benefits.
-- Use links in notes or cautions only if it helps the reader complete the task or aids their understanding of the note or caution content. See Best practices for using callout boxes.
+- Use links in notes or cautions only if it helps the reader complete the task or aids their understanding of the note or caution content. See [Best practices for using callout boxes](notes-and-cautions.md#best-practices-for-using-callout-boxes).
 
 ### Guidelines for including links
 
@@ -22,28 +22,29 @@ When adding links into your content, follow these best practices:
 - Use the exact topic title or section heading, name of the page, or name of the entity you are linking to for the link text. Don't paraphrase the linked-to topic name.
 - Keep punctuation that isn't part of the title outside the link.
 
-For more information on formatting links, see Formatting links in HID documentation. For information on linking in the UI, see Links in the UI text style guidelines topic.
+For more information on formatting links, see [Formatting links in HID documentation](#formatting-links-in-hid-documentation). For information on linking in the UI, see Links in the UI text style guidelines topic.
 
 ## Formatting links in HID documentation
 
-Use a hyperlink to cross-reference other topics in HID documentation or to connect the reader to other HID materials, such as content from HID Blogs, HID Answers, or HID Education. Before you include any links in your documentation, familiarize yourself with the guidance in Best practices for including links.
+Use a hyperlink to cross-reference other topics in HID documentation or to connect the reader to other HID materials, such as content from HID Blogs, HID Answers, or HID Education. Before you include any links in your documentation, familiarize yourself with the guidance in [Best practices for including links](links.md#best-practices-for-including-links).
 
 Go to the corresponding section for formatting details and examples of the type of link you want to include:
 
-- Code repositories
-- Documentation or parts of a manual
-- Downloads
-- Splexicon entries
-- HID Answers
-- HID Blogs
-- HID product UIs
-- HID Support Portal
-- HID videos
-- Third-party websites
+<!-- no toc -->
+- [Code repositories](#code-repositories)
+- [Documentation or parts of a manual](#documentation-or-parts-of-a-manual)
+- [Downloads](#downloads)
+- [***Splexicon*** entries](#splexicon-entries)
+- [HID Answers](#hid-answers)
+- [HID Blogs](#hid-blogs)
+- [HID product UIs](#hid-product-uis)
+- [HID Support Portal](#hid-support-portal)
+- [HID videos](#hid-videos)
+- [Third-party websites](#third-party-websites)
 
 ### Code repositories
 
-Format links to code repositories as follows. See Links to third-party websites for more information about linking to outside resources.
+Format links to code repositories as follows. See [Best practices for linking to third-party websites](#best-practices-for-linking-to-third-party-websites) for more information about linking to outside resources.
 
 | **Type of code repository** | **Include this information in the sentence** | **Example** |
 |---|---|---|
@@ -76,7 +77,7 @@ Format links to these types of downloads as follows:
 | Download from the HID website	| Use the name of the HID website download as the display text for the link. | Download the HID Universal Forwarder for your operating system from the HID website.<br><br>Download HID Enterprise from Free Trials and Downloads on the HID website. |
 | Download files | Use the file name or document name as the display name of the link. | Download the tutorialdata.zip file.<br><br>Download the Machine Learning Toolkit Quick Reference Guide. |
 
-### Splexicon entries
+### ***Splexicon*** entries
 
 Link only to HID-specific terms that your audience might be unfamiliar with, and include the link at the first instance of the term you want to define. Bold the Splexicon term. See the following examples:
 
@@ -155,6 +156,9 @@ See the following examples:
 - Install the fluent-plugin-systemd plugin for systemd journal log collection. See <https://github.com/fluent-plugin-systemd/fluent-plugin-systemd/blob/master/README.md> on GitHub.
 - Create a HID On-Call webhook by following the steps in <https://help.victorops.com/knowledge-base/rest-endpoint-integration-guide>.
 - You must create your own Slack app and add it to your workspace. See <https://api.slack.com/messaging/webhooks> in the Slack API.
+
+!!! note
+    Third-party links can change without notice, so check that the links work with every release of your documentation.
 
 ### Supplemental links
 

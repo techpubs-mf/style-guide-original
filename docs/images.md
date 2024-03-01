@@ -6,16 +6,17 @@ Images can enhance technical documentation when the product UI or workflow that 
 
 In all cases, images must supplement written content. Don't use an image as a replacement for writing out a process or a concept.
 
-All images must include surrounding and alternative text to assist users with visual impairments. For more information on making images accessible in HID docs, see the Images section in Write accessible documentation.
+All images must include surrounding and alternative text to assist users with visual impairments. For more information on making images accessible in HID docs, see [Images](accessibility.md#images).
 
 ### Types of images
 
 You can use the following types of images in HID docs:
 
-- Screenshots
-- Diagrams
-- GIFs
-- Inline images
+<!-- no toc -->
+- [Screenshots](#screenshots)
+- [Diagrams](#diagrams)
+- [GIFs](#gifs)
+- [Inline images](#inline-images)
 
 ### When to include an image
 
@@ -45,7 +46,7 @@ Before you create an image, follow these approaches:
 After you place an image in your documentation, complete the following tasks:
 
 1. Introduce each image with a full sentence that describes its contents.
-2. Always include alt text with an image. See Include alt text in images.
+2. Always include alt text with an image. See [Include alt text in images](accessibility.md#include-alt-text-in-images).
 3. Make sure your images are accurate and up to date before release.
 
 ### When to avoid including an image
@@ -69,7 +70,7 @@ When the package is uploaded successfully, it appears in the table on the Upload
 
 **_image_**
 
-For general guidelines on including images in HID docs, see Best practices for including images.
+For general guidelines on including images in HID docs, see [Including images in HID docs](#including-images-in-hid-docs).
 
 ## Diagrams
 
@@ -85,23 +86,23 @@ See the following example of a complex diagram:
 
 This complex diagram uses color but doesn't rely on color to convey meaning. The lines use color in combination with different dash lengths so that readers who can't distinguish between colors can follow the path of the lines. A legend is included to identify each type of line.
 
-For general guidelines on including images in HID docs, see Best practices for including images.
+For general guidelines on including images in HID docs, see [Including images in HID docs](#including-images-in-hid-docs).
 
 ## GIFs
 
 You can use an animated GIF to show steps in a UI. Use an animated GIF to supplement task information or paragraph text, so don't remove essential text in favor of a GIF.
 
-If a GIF requires a voiceover, is longer than 5 seconds in duration, or needs the ability to pause or skip ahead, use a video instead. See Best practices for including videos.
+If a GIF requires a voiceover, is longer than 5 seconds in duration, or needs the ability to pause or skip ahead, use a video instead. See [Best practices for including videos](videos.md#best-practices-for-including-videos).
 
 See the following example of an animated GIF:
 
 **_image_**
 
-For general guidelines on including images in HID docs, see Best practices for including images.
+For general guidelines on including images in HID docs, see [Including images in HID docs](#including-images-in-hid-docs).
 
 ## Inline images
 
 You can use an inline image in a sentence to label a UI element, such as a toolbar icon or a button. See the following example of an inline image:
 Select the settings icon (**_image_**) to show a list of settings.
 
-For general guidelines on including images in HID docs, see Best practices for including images.
+For general guidelines on including images in HID docs, see [Including images in HID docs](#including-images-in-hid-docs).

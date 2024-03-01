@@ -8,11 +8,11 @@ When writing about HID products, keep inclusivity in mind and follow these guide
 
 | **Guideline** | **Additional information** |
 |---|---|
-| Write in plain language. Metaphors and idioms aren't always understood internationally and can be offensive to some cultures. | Use plain language |
-| Use gender-fair wording and neutral pronouns in your writing. | Gender-neutral pronouns |
-| Choose diverse names and genders when you create scenarios and examples. | Names |
-| Make sure your writing meets accessibility standards and requirements. | Write accessible documentation |
-| Avoid biased words, terminology, and language in your writing. | Alternatives to biased language |
+| Write in plain language. Metaphors and idioms aren't always understood internationally and can be offensive to some cultures. | [Use plain language](voice-and-tone.md#use-plain-language) |
+| Use gender-fair wording and neutral pronouns in your writing. | [Gender-neutral pronouns](grammar-and-word-choice.md#pronouns) |
+| Choose diverse names and genders when you create scenarios and examples. | [Names](grammar-and-word-choice.md#names) |
+| Make sure your writing meets accessibility standards and requirements. | [Write accessible documentation](accessibility.md#write-accessible-documentation) |
+| Avoid biased words, terminology, and language in your writing. | [Alternatives to biased language](#alternatives-to-biased-language) |
 
 ## Determining whether a term shows bias
 
@@ -118,4 +118,4 @@ As much as possible, avoid language that's specific to any single device or inpu
 
 If you know that customers must perform an action in a specific way on a particular device, it's acceptable to use device-specific language to describe how they perform that function. For example, you might describe the physical interaction needed to scan a 3D object in HID AR for iOS on an iPhone or iPad.
 
-To find mobile terminology and other terminology replacements, see the Usage dictionary.
+To find mobile terminology and other terminology replacements, see the [Usage dictionary](usage-dictionary.md).

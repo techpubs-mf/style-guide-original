@@ -6,9 +6,9 @@ When you create written content, shape your docs around your reader's needs and 
 
 Here are a few guidelines you can follow to achieve a balanced tone in your writing:
 
-- Stay away from jargon or idioms. See Use plain language.
-- Write in active voice and present tense whenever possible. See Be active and present.
-- Use contractions, such as isn't, don't, and can't. See Contractions in HID docs.
+- Stay away from jargon or idioms. See [Use plain language](#use-plain-language).
+- Write in active voice and present tense whenever possible. See [Be active and present](#be-active-and-present).
+- Use contractions, such as isn't, don't, and can't. See [Contractions](grammar-and-word-choice.md#contractions).
 - Write precisely and concretely.
 - Avoid qualitative language, such as calling things easy or simple. What's easy for one user might be challenging for another.
 
@@ -29,25 +29,25 @@ The following table shows examples of writing that are too formal, too casual, a
 
 Using plain language helps the widest range of users understand what you write. Remember that HID documentation readers are a global audience whose first language might not be English. Using plain language increases the chance that readers understand what you wrote the first time they read it.
 
-Plain language also makes translation easier and documentation more accessible. For more information on how using plain language increases accessibility, see Write accessible documentation.
+Plain language also makes translation easier and documentation more accessible. For more information on how using plain language increases accessibility, see [Write accessible documentation](accessibility.md#write-accessible-documentation).
 
 Consider the following tips for using plain language in your writing:
 
 - Avoid obscure words.
 - Use simple but complete sentences. Often, you can communicate the same message in 20 words instead of 50 words.
 - Use indicating nouns to identify elements and knowledge objects to ground the reader in the product.
-- Avoid abbreviations. For more information on abbreviations, see Abbreviations in HID docs.
+- Avoid abbreviations. For more information on abbreviations, see [Abbreviations](grammar-and-word-choice.md#abbreviations).
 - Be consistent. Use the same term to mean the same thing in one topic as you do in another topic.
 
 ## Avoid jargon and complex terminology
 
-Jargon and complex terminology are terms that are specific to a company, profession, or field. These terms are often referred to as technical language and can confuse and frustrate readers, so avoid them whenever possible. If you have to use complex or unfamiliar HID-specific terminology, link to the term in the Splexicon instead of redefining the term. For more information on linking to the Splexicon, see Formatting links in HID documentation.
+Jargon and complex terminology are terms that are specific to a company, profession, or field. These terms are often referred to as technical language and can confuse and frustrate readers, so avoid them whenever possible. If you have to use complex or unfamiliar HID-specific terminology, link to the term in the ***Splexicon*** instead of redefining the term. For more information on linking to the ***Splexicon***, see [Formatting links in HID documentation](links.md#formatting-links-in-hid-documentation).
 
 Consider the following tips to help you avoid jargon in your writing:
 
 - Take into account your audience's level of knowledge.
 - Consider if the user needs to know the term to understand the documentation.
-- Refer to the Usage dictionary for examples of words and phrases that are unnecessarily complex and their alternatives. See the Usage dictionary.
+- Refer to the [Usage dictionary](usage-dictionary.md) for examples of words and phrases that are unnecessarily complex and their alternatives.
 
 See the table for examples of how to translate jargon into plain language:
 

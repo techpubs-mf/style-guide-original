@@ -16,9 +16,9 @@ The HID Tech Pubs Style Guide provides usage rules, best practices, punctuation 
 
 All guidelines in the HID Tech Pubs Style Guide are exactly that: a guideline. The goal of the HID Tech Pubs Style Guide is to improve documentation by outlining places where consistency is important across docs, but there are scenarios where it might make sense to move away from these guidelines to make your documentation better. In every scenario, it's most important that you strive for clear, high-quality documentation.
 
-The HID Tech Pubs Style Guide is a document in motion, so check the Latest changes to the HID Tech Pubs Style Guide for recent updates.
+The HID Tech Pubs Style Guide is a document in motion, so make sure you have pulled the latest changes if you wish to make updates.
 
-For style issues that aren't covered in this guide, see Where to look if the HID Tech Pubs Style Guide doesn't answer your question.
+For style issues that aren't covered in this guide, see [Where to look if the HID Tech Pubs Style Guide doesn't answer your question](additional-resources.md#where-to-look-if-the-hid-tech-pubs-style-guide-doesnt-answer-your-question).
 
 ## Questions, comments, or feedback about the HID Tech Pubs Style Guide
 

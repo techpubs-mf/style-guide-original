@@ -2,11 +2,11 @@
 
 ## Abbreviations
 
-Don't use common abbreviations, such as a.k.a., e.g., etc., i.e., and vs. in documentation and UI text. Instead, use precise language and state what you mean. See the Usage dictionary for terms to use instead of abbreviations.
+Don't use common abbreviations, such as a.k.a., e.g., etc., i.e., and vs. in documentation and UI text. Instead, use precise language and state what you mean. See the [Usage dictionary](usage-dictionary.md) for terms to use instead of abbreviations.
 
-For keyboard shortcuts, abbreviate the names of keys only if you have a space constraint, otherwise spell out letter keys and key names. See Writing keyboard shortcuts in HID docs.
+For keyboard shortcuts, abbreviate the names of keys only if you have a space constraint, otherwise spell out letter keys and key names. See [Writing keyboard shortcuts in HID docs](#writing-keyboard-shortcuts-in-a-confined-space).
 
-It's okay to abbreviate a unit of measurement in text. See Measurements.
+It's okay to abbreviate a unit of measurement in text. See [Measurements](numbers.md#measurements).
 
 ## Acronyms
 
@@ -24,7 +24,7 @@ Capitalize all letters in an acronym or initialism, including file name extensio
 |---|---|
 | CSV file<br>HTTP protocol<br>JSON file<br>Upload the docs.pdf attachment. | c.s.v. file<br>http protocol<br>json file<br>Upload the docs.PDF attachment. |
 
-See more examples in File name extensions and File types in the Usage dictionary.
+See more examples in File name extensions and File types in the [Usage dictionary](usage-dictionary.md).
 
 ### Match acronyms to its spelled-out version
 
@@ -40,16 +40,16 @@ Consider your audience's level of understanding and use your best judgment for c
 
 ### Third-party acronyms
 
-See Referring to third-party companies and products for information on using third-party acronyms and initialism.
+See [Referring to third-party companies and products](third-party-information.md#referring-to-third-party-companies-and-products) for information on using third-party acronyms and initialism.
 
 ### Abbreviating time and measurements
 
-See Dates and Time for date and time abbreviations and Measurements for abbreviating rates of measurement.
+See [Dates](numbers.md#dates) and [Time](numbers.md#time) for date and time abbreviations and [Measurements](numbers.md#measurements) for abbreviating rates of measurement.
 
 ## American English spelling and phrases
 Write in American English. The dictionary of choice for HID documentation is [Merriam-Webster](<https://www.merriam-webster.com/>){:target="_blank"}, so consult the dictionary if you question your spelling.
 
-Avoid Latin and British abbreviations, spelling, and phrases, such as e.g., colour, and full stop, in your documentation. See the Usage dictionary for acceptable terms to use instead.
+Avoid Latin and British abbreviations, spelling, and phrases, such as e.g., colour, and full stop, in your documentation. See the [Usage dictionary](usage-dictionary.md) for acceptable terms to use instead.
 
 ## Contractions
 
@@ -57,9 +57,9 @@ HID documentation is informal in tone, so you can use contractions in the presen
 
 Don't use contractions for the past tense, such as "didn't".
 
-If you can't rewrite a future-tense sentence into present tense, it's okay to use contractions, such as "won't". For more details about tenses, see Be active and present.
+If you can't rewrite a future-tense sentence into present tense, it's okay to use contractions, such as "won't". For more details about tenses, see [Be active and present](voice-and-tone.md#be-active-and-present).
 
-Don't put apostrophes in brand names, company names, or products to make them possessive. For more information, see Possessive names and terms in HID docs.
+Don't put apostrophes in brand names, company names, or products to make them possessive. For more information, see [Possessive names and terms](#possessive-names-and-terms).
 
 ## Example names and domains
 
@@ -82,7 +82,8 @@ It's okay to use a first name only for your documentation, such as in a scenario
 - Morgan
 - Skyler
 - Wei
-Family names
+
+#### Family names
 
 Create a fictional surname if you need a first and last name, such as in example UI text fields or search results. See the following examples:
 
@@ -93,7 +94,7 @@ Create a fictional surname if you need a first and last name, such as in example
 
 #### Pronouns for fictitious names
 
-Use gender-neutral third-person pronouns, such as "they", "their", and "them", to accompany the fictitious name. See Gender-neutral pronouns.
+Use gender-neutral third-person pronouns, such as "they", "their", and "them", to accompany the fictitious name. See [Gender-neutral pronouns](#gender-neutral-pronouns).
 
 #### Email addresses
 
@@ -153,7 +154,7 @@ Follow these guidelines when writing keyboard shortcuts in HID documentation.
 
 #### Operating system keyboard shortcuts
 
-If the action a user takes on a keyboard is a well-known operating system command, focus on the outcome rather than the keyboard shortcut and use device-agnostic language. See Use device-agnostic language.
+If the action a user takes on a keyboard is a well-known operating system command, focus on the outcome rather than the keyboard shortcut and use device-agnostic language. See [Use device-agnostic language](bias-free-communication.md#use-device-agnostic-language).
 
 | **Correct** | **Incorrect** |
 |---|---|
@@ -194,7 +195,7 @@ There are differences between Mac keyboards and PC keyboards, which are used for
 | Auto arrange playbook | Command+Shift+F | Control+Shift+F |
 | Toggle Python editor | Command+E | Control+E |
 | Show hotkeys | Command+? | Control+? |
- 
+
 #### Plurals in parentheses
 
 Don't write a lowercase s or es in parentheses, "(s)" or "(es)", after a noun to indicate both singular and plural. Choose the best option for your documentation. In most cases, using the plural works best for understanding the sentence.
@@ -205,7 +206,7 @@ If it's important to include both singular and plural, try including the phrase 
 |---|---|
 | The endpoint returns the current webhook key.<br>The endpoint returns the current webhook keys.<br>The endpoint returns one or more of the current webhook keys.<br>The endpoint returns all of the current webhook keys. | The endpoint returns the current webhook key(s). |
 
-For acceptable uses of parentheses in your writing, see Parentheses.
+For acceptable uses of parentheses in your writing, see [Parentheses](punctuation-and-symbols.md#parentheses).
 
 #### Possessive names and terms
 
@@ -215,7 +216,7 @@ Don't use an apostrophe to make product names, company names, or trademarked ter
 |---|---|
 | The dashboard shows data pulled from the HID Enterprise internal log files.<br>Submit a case using the HID Support Portal.<br>The Search function has robust capabilities. | The dashboard shows data pulled from HID Enterprise's internal log files.<br>Submit a case using HID's Support portal.<br>Search's capabilities are robust. |
 
-For acceptable uses of apostrophes, see Apostrophe.
+For acceptable uses of apostrophes, see [Apostrophe](punctuation-and-symbols.md#apostrophe).
 
 ### Prepositions
 
@@ -240,7 +241,7 @@ You can also choose another word, such as "over", "across", "through", or "with"
 - through a custom event
 - with a token
 
-Avoid Latin phrases in HID documentation, so don't use "via" as a preposition. See American English spelling and phrases.
+Avoid Latin phrases in HID documentation, so don't use "via" as a preposition. See [American English spelling and phrases](#american-english-spelling-and-phrases).
 
 #### Placing prepositions in a sentence
 

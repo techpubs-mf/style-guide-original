@@ -1,22 +1,23 @@
 # Capitalization
 
-Follow the capitalization guidelines in The Chicago Manual of Style. See Capitalization style definitions for detailed information on capitalization styles.
+Follow the capitalization guidelines in The Chicago Manual of Style. See [Capitalization style definitions](#capitalization-style-definitions) for detailed information on capitalization styles.
 
 The following capitalization guidelines are specific to HID documentation:
 
-- Doc components
-- HID product names, features, and components
-- Concepts that are UI terms
+<!-- no toc -->
+- [Doc components](#doc-components)
+- [HID product names, features, and components](#hid-product-names-features-and-components)
+- [Concepts that are UI terms](#concepts-that-are-ui-terms)
 
-For capitalization guidelines in the UI, see UI text style guidelines.
+For capitalization guidelines in the UI, see [UI text style guidelines](ui-text-guidelines.md#ui-text-style-guidelines).
 
 ## Capitalization for emphasis
 
-Don't capitalize all letters in a word to show emphasis. In general, don't add formatting to text to show emphasis. If you need to emphasize important content, consider using a callout box. See Best practices for using callout boxes.
+Don't capitalize all letters in a word to show emphasis. In general, don't add formatting to text to show emphasis. If you need to emphasize important content, consider using a callout box. See [Best practices for using callout boxes](notes-and-cautions.md#best-practices-for-using-callout-boxes).
 
 ## Capitalization style definitions
 
-You can capitalize elements in HID documentation in either sentence style or headline style. See Doc components to determine when to use either capitalization style in HID documentation.
+You can capitalize elements in HID documentation in either sentence style or headline style. See [Doc components](#doc-components) to determine when to use either capitalization style in HID documentation.
 
 ### Sentence style
 
@@ -50,13 +51,13 @@ For the following components in HID docs, use these capitalization guidelines:
 | List items | Sentence style | 1. Log in with your username and password. |
 | Column headings in a table | Sentence style | Refer to this table as an example. |
 
-### HID product names, features, and components
+### HID product names, features, and components
 
 Capitalize HID product names. In general, don't capitalize the names of features or components. For correct capitalization of HID terms, see the Splexicon.
 
-For capitalization of the parts of a HID product architecture, such as a heavy forwarder or a search head, see HID product terminology.
+For capitalization of the parts of a HID product architecture, such as a heavy forwarder or a search head, see [HID product terminology](hid-terminology-and-trademarks.md#hid-product-terminology).
 
-For capitalization within a HID product UI, such as whether to capitalize a button label or dialog box title, see the Capitalization section in the UI text style guidelines.
+For capitalization within a HID product UI, such as whether to capitalize a button label or dialog box title, see the [Capitalization](ui-text-guidelines.md#capitalization).
 
 ### Concepts that are UI terms
 

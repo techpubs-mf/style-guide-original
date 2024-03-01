@@ -2,7 +2,7 @@
 
 ## Best practices for writing with lists
 
-Lists organize important information so that readers can scan content faster. Use a list to organize multiple steps or items. Avoid writing tasks in paragraph form, unless the task contains only 1 step.
+Lists organize important information so that readers can scan content faster. Use a list to organize multiple steps or items. Avoid writing tasks in paragraph form, unless the task contains only one step.
 
 When you include lists in your content, consider these best practices:
 
@@ -20,7 +20,7 @@ When you include lists in your content, consider these best practices:
 - In task steps, avoid linking to other topics within the task.
 - Use lists in tables sparingly.
 
-Use these best practices to make docs accessible for all audiences. For more guidance on making docs more accessible using lists, see Write accessible documentation.
+Use these best practices to make docs accessible for all audiences. For more guidance on making docs more accessible using lists, see [Write accessible documentation](accessibility.md#write-accessible-documentation).
 
 ### Choose the best list
 
@@ -42,11 +42,11 @@ Bulleted lists must have the following qualities:
 
 - A complete lead-in sentence that describes the list's purpose, punctuated by a colon
 - A consistent hierarchy or order, such as alphabetization
-- More than 1 list item
-- No more than 1 sublist for each list item if needed, with at least 2 items in a sublist
+- More than 1one list item
+- No more than one sublist for each list item if needed, with at least two items in a sublist
 - Parallel sentence construction
 - Sentence case capitalization
-- 1 sentence or idea for each list item
+- One sentence or idea for each list item
 - End punctuation if the list items are complete sentences
 - No end punctuation if the list items are characters, words, or phrases
 
@@ -54,7 +54,7 @@ For more guidance on using lists, see [Best practices for writing with lists](#b
 
 ### Example
 
-The following example of a bulleted list contains a complete lead-in sentence. Each item in the list uses parallel construction and doesn't contain more than 1 phrase.
+The following example of a bulleted list contains a complete lead-in sentence. Each item in the list uses parallel construction and doesn't contain more than one phrase.
 
 You can use the following types of Search Processing Language (SPL) commands:
 
@@ -72,9 +72,9 @@ When you write HID documentation, use numbered lists, sometimes called ordered l
 Numbered lists must have the following qualities:
 
 - A complete lead-in sentence that describes the list's purpose, punctuated by a period or a colon
-- More than 1 list item
-- No more than 1 sublist for each list item if needed, with at least 2 items in a sublist
-- 1 action for each list item
+- More than one list item
+- No more than one sublist for each list item if needed, with at least two items in a sublist
+- One action for each list item
 - Parallel sentence construction
 - Sentence case capitalization
 - End punctuation if the list items are complete sentences
@@ -93,6 +93,7 @@ When you're writing task steps, follow these guidelines to accurately describe a
 | Optional step | Preface the step with the word "Optional" in parentheses. | 1. (Optional) Create a HID.com account. |
 
 ### Example
+
 The following example of a numbered list contains a heading describing the task and a complete lead-in sentence. Each item in the list contains a single action and uses parallel construction. In step 3, the procedure has substeps marked by lowercase letters. In step 4, the example shows an optional step.
 
 #### Search for sales of a specific product
@@ -117,13 +118,13 @@ Definition lists must have the following qualities:
 
 - A complete lead-in sentence
 - More than 1 defined term
-- 2 levels: the term, which is in bold and on its own line, and the definition, which is at least 1 full sentence indented on its own line
+- Two levels: the term, which is in bold and on its own line, and the definition, which is at least one full sentence indented on its own line
 - Parallel sentence construction
 - Sentence case capitalizationn
-- 1 idea for each list
+- One idea for each list
 - End punctuation for every definition line
 
-You can add a paragraph break after each definition if the formatting is tight. If you need to use multiple definition lists or organize more content, you might find that a table works better for this purpose. See Best practices for including tables.
+You can add a paragraph break after each definition if the formatting is tight. If you need to use multiple definition lists or organize more content, you might find that a table works better for this purpose. See [Best practices for including tables](tables.md#best-practices-for-including-tables).
 
 For more guidance on using lists, see [Best practices for writing with lists](#best-practices-for-writing-with-lists).
 

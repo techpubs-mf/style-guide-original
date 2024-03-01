@@ -81,7 +81,7 @@ Try these steps:
 
 When you write HID docs, add trademark attribution for HID products.
 
-Use HID as a noun if you mean the company. Don't use HID as a verb. You can use HID as an adjective. For example, "Search your data using HID software." See HID product terminology to choose the best product terminology in your writing.
+Use HID as a noun if you mean the company. Don't use HID as a verb. You can use HID as an adjective. For example, "Search your data using HID software." See [HID product terminology](#hid-product-terminology) to choose the best product terminology in your writing.
 
 Don't use an apostrophe to make product names, company names, or trademarked terms possessive or plural. Incorrect use can dilute the trademark or registered trademark. See the following examples:
 
@@ -89,4 +89,4 @@ Don't use an apostrophe to make product names, company names, or trademarked ter
 |---|---|
 | The use of HID's Search Processing Language (SPL). | The use of the HID Search Processing Language (SPL). |
 
-For acceptable uses of apostrophes in your writing, see Apostrophe. Don't add trademark attribution to third-party company or product names.
+For acceptable uses of apostrophes in your writing, see [Apostrophe](punctuation-and-symbols.md#apostrophe). Don't add trademark attribution to third-party company or product names.

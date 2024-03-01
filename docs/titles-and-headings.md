@@ -18,11 +18,11 @@ Create your manual name using an imperative statement with the product name. If 
 
 Avoid terms such as "Guide" or "Manual" in the manual name, and find a descriptive verb to accompany the product in the manual name instead. You can also use a noun that describes the content, such as Release Notes, Scenarios, Tutorial, and API Reference.
 
-Use headline-style capitalization for manual names. See Capitalization.
+Use headline-style capitalization for manual names. See [Capitalization](capitalization.md).
 
-When you refer to a manual name in HID docs, format the manual name in italics. See Formatting reference.
+When you refer to a manual name in HID docs, format the manual name in italics. See [Formatting reference](formatting-text.md).
 
-#### Manual name examples
+#### Manual name examples
 
 The following table shows examples of clear and descriptive manual names:
 
@@ -63,9 +63,9 @@ Everywhere you can, provide important information the reader needs to know in th
 
 Include the product name in the topic title. If the product name is too long, use an approved abbreviation. You don't need to include the product name in every H2 and H3.
 
-Use sentence-style capitalization for chapter names, topic titles, and section headings. See Capitalization.
+Use sentence-style capitalization for chapter names, topic titles, and section headings. See [Capitalization](capitalization.md).
 
-Don't use numbers in headings to indicate a sequence unless you're listing parts of a tutorial. Only use numbers in a heading if they are part of a name, like "SPL2". See Numbers in headings.
+Don't use numbers in headings to indicate a sequence unless you're listing parts of a tutorial. Only use numbers in a heading if they are part of a name, like "SPL2". See [Numbers in headings](numbers.md#numbers-in-headings).
 
 As a guideline, use the following moods and phrases in your titles and headings for the type of content you're writing:
 

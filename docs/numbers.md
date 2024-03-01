@@ -15,20 +15,20 @@ Review the following table for examples of when to use numerals in text:
 | **Use numerals for** | **Example** | **For more information** |
 |---|---|---|
 | Counts | 2 forwarders, 3 unique values | |
-| Dates | April 22, 2019 | See Dates. |
-| Decimals | 3.14 | See Commas and decimals. |
+| Dates | April 22, 2019 | See [Dates](#dates). |
+| Decimals | 3.14 | See [Commas and decimals](#commas-and-decimals). |
 | Dimensions | 1280 x 1024 | |
 | Distance | 4 feet | |
-| Duration of time | 2 minutes | See Time. |
-| Fractions | 1/4 | See Fractions. |
-| Measurements | 8 CPU, 1,045 MB | See Measurements. |
+| Duration of time | 2 minutes | See [Time](#time). |
+| Fractions | 1/4 | See [Fractions](#fractions). |
+| Measurements | 8 CPU, 1,045 MB | See [Measurements](#measurements). |
 | Numerical user input | In the **Number** field, enter 5. | |
 | Percentages | 25% | |
-| Phone numbers | +1-888-555-1212 | See Phone numbers. |
+| Phone numbers | +1-888-555-1212 | See [Phone numbers](#phone-numbers). |
 | Pixels | 450 px, 1920 x 1080 pixels | |
-| Ranges | 50 to 60 GB | See Ranges. |
-| Time of day | 2:30 PM to 5 PM | See Time. |
-| Versions | HID Enterprise 7.x | See Versions. |
+| Ranges | 50 to 60 GB | See [Ranges](#ranges). |
+| Time of day | 2:30 PM to 5 PM | See [Time](#time). |
+| Versions | HID Enterprise 7.x | See [Versions](#versions). |
 | Weight 40 lbs | |
 
 #### Don't start a sentence with a numeral
@@ -85,7 +85,7 @@ It's okay to use numbers in a heading to indicate steps or parts in a tutorial. 
 |---|---|
 | Step 1: Getting started<br>Step 2: Activate your pipeline | 1. Register an app<br>2. Add permissions |
 
-For more information about naming your headings, see Name your topic or sections.
+For more information about naming your headings, see [Name your topic or sections](titles-and-headings.md#name-your-topic-or-sections).
 
 ## Dates
 
@@ -185,7 +185,7 @@ See the following examples:
 - +1-555-555-0100
 - +61-2-5550-9988
 
-For information on creating fictitious example phone numbers in your docs, see Example names and domains.
+For information on creating fictitious example phone numbers in your docs, see [Example names and domains](grammar-and-word-choice.md#example-names-and-domains).
 
 ## Ranges
 
@@ -194,6 +194,7 @@ When writing about numbers that appear in a HID UI, duplicate them exactly as th
 Use numerals when referring to numbers in a range. Use a suitable word, such as "to", "from", or "through", instead of a hyphen between numbers in a range. Indicating a range with a suitable word removes any ambiguity that using a hyphen can create for readers who use screen readers.
 
 !!! note
+
     It's okay to use a hyphen between numbers where space is a limiting factor, such as in a table or in tight UI spaces.
 
 See the following examples:

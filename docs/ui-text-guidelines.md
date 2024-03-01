@@ -11,14 +11,14 @@ Use terms consistently across products and docs. See the following resources for
 
 | **Topic** | **Link** |
 |---|---|
-|Terms to use and avoid | Usage dictionary |
-| Product terminology | HID product terminology |
-| HID-specific terminology definitions | Splexicon |
-| Abbreviations | Abbreviations in HID docs |
-| Acronyms | Acronyms in HID docs |
-| Punctuation | Punctuation and symbols |
-| Voice and tone | HID voice and tone<br><br>Use plain language<br>Be active and present<br>Write in indicative or imperative mood |
-| Bias-free language | Write unbiased documentation<br><br>Use device-agnostic language |
+|Terms to use and avoid | [Usage dictionary](usage-dictionary.md) |
+| Product terminology | [HID product terminology](hid-terminology-and-trademarks.md#hid-product-terminology) |
+| HID-specific terminology definitions | ***Splexicon*** |
+| Abbreviations | [Abbreviations](grammar-and-word-choice.md#abbreviations) |
+| Acronyms | [Acronyms](grammar-and-word-choice.md#acronyms) |
+| Punctuation | [Punctuation and symbols](punctuation-and-symbols.md) |
+| Voice and tone | [Voice and tone](voice-and-tone.md)<br><br>[Use plain language](voice-and-tone.md#use-plain-language)<br>[Be active and present](voice-and-tone.md#be-active-and-present)<br>[Write in indicative or imperative mood](voice-and-tone.md#write-in-indicative-or-imperative-mood) |
+| Bias-free language | [Write unbiased documentation](bias-free-communication.md#write-unbiased-documentation)<br><br>[Use device-agnostic language](bias-free-communication.md#use-device-agnostic-language) |
 
 ### Capitalization
 
@@ -68,7 +68,7 @@ Text formatting is text displayed in a special, specified style. Avoid applying 
 
 Use the following formatting guidelines:
 
-- Avoid referring to UI elements in the UI. If you're writing in-product documentation, such as for a guided workflow, and you need to refer to UI elements, follow the documentation formatting guidelines in Formatting reference.
+- Avoid referring to UI elements in the UI. If you're writing in-product documentation, such as for a guided workflow, and you need to refer to UI elements, follow the documentation formatting guidelines in [Formatting text](formatting-text.md).
 - Don't use formatting like bold, italics, or monospaced font in microcopy, such as in tooltips, help text, field labels, button labels, and error messages.
 - Don't use all capital letters or bold for emphasis.
 - Use indicating nouns to provide context for commands or other code elements rather than using monospaced font for the code element.
@@ -123,7 +123,7 @@ If you need to use a symbol in UI text, write out the name of the symbol first, 
 
 See [Show symbols in text](punctuation-and-symbols.md#show-symbols-in-text) for more information on how to use symbols and what to call them.
 
-If you don't have space to write out the name of the symbol, you can use hidden text such as the aria-label attribute to define the symbol. See Spell out words and symbols for more information.
+If you don't have space to write out the name of the symbol, you can use hidden text such as the `aria-label` attribute to define the symbol. See [Spell out words and symbols](accessibility.md#spell-out-words-and-symbols) for more information.
 
 ### Links
 
@@ -258,9 +258,9 @@ The following table shows examples of what to do and what not to do when writing
 
 A button label is text that appears on a call-to-action button in the UI. All buttons need labels. Follow these guidelines when writing button labels:
 
-- Write concise button text. Aim for 1 or 2 words and no more than 4 words.
+- Write concise button text. Aim for one or two words and no more than 4 words.
 - Avoid using "Yes" or "No". Instead, write a clear call to action. Be specific so that the user is sure of what action happens after they select the button.
-- If the button text requires more than 1 word, start the text with a verb.
+- If the button text requires more than one word, start the text with a verb.
 - Use a precise verb to describe the action. For example, use "Add" when using an existing object in a new context, and use "Create" when making a new object from scratch.
 - Use sentence-style capitalization and capitalize the first word and proper nouns only.
 - Avoid articles such as "a", "an", or "the".

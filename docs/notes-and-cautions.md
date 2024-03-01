@@ -10,6 +10,10 @@ Before you add multiple callout boxes to a topic, consider how the callouts look
 
 If a callout box isn't essential to highlight your content, consider weaving that information into the introduction or as part of the instructions you're creating.
 
+!!! note
+
+    Use callout boxes judiciously. If the content of the note isn't relevant to your content, your reader might ignore future callout boxes.
+
 ### Guidelines for using callout boxes
 
 Follow these guidelines when you use note and caution callout boxes:

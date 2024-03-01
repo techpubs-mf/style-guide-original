@@ -4,13 +4,13 @@
 
 You can show a symbol in your text when you must describe the exact user input, such as with code syntax.
 
-Don't use symbols to substitute for a meaning that is not listed in the What to call symbols section. Consider whether you can spell out the meaning of the symbol using words instead. See Spell out words and symbols in Write accessible documentation for more information.
+Don't use symbols to substitute for a meaning that is not listed in the What to call symbols section. Consider whether you can spell out the meaning of the symbol using words instead. See [Spell out words and symbols](accessibility.md#spell-out-words-and-symbols) for more information.
 
 If you want to show a symbol in your text, write out the symbol first, and then refer to the symbol in parentheses with nonbreaking spaces. The HTML character entity for a nonbreaking space is `&nbsp;`.
 
 | **Correct** | **Incorrect** |
 |---|---|
-Begin the line with a forward slash ( / ).<br>Enter your search after the pipe ( \| ). | Begin the line with a forward slash, /.<br>Enter your search after the \|. |
+| Begin the line with a forward slash ( / ).<br>Enter your search after the pipe ( \| ). | Begin the line with a forward slash, /.<br>Enter your search after the \|. |
 
 ### What to call symbols
 
@@ -46,7 +46,7 @@ Use the following terms when writing about symbols in HID documentation:
 | " | Double quotation mark |
 | , | Comma |
 | < | Less than, left-pointing angle bracket |
-| . | Period, dot, or point depending on context. See Period. |
+| . | Period, dot, or point depending on context. See [Period](#period). |
 | > | Greater than, right-pointing angle bracket |
 | / | Forward slash |
 | ? | Question mark |
@@ -183,6 +183,7 @@ Exclamatory statements are better suited for blog posts and marketing materials.
 Make the point in each of your sentences without using parentheses. Don't use parentheses in place of commas, to enclose a complete sentence, or to include unnecessary information or an afterthought.
 
 !!! note
+
     Don't write a lowercase "s" or "es" in parentheses, "(s)" or "(es)", after a noun to indicate both singular and plural. Choose the best option for your documentation.
 
 You can use parentheses in the following cases:
@@ -280,9 +281,9 @@ Don't use quotation marks for emphasis, to show user input in a HID product UI, 
 |---|---|
 | Search for "Query tables" on the Microsoft website.<br>If you see an error message that says "The user isn't authenticated", check the user's permissions. | Enter "Filename" into the UI field.<br>From the "Field" menu, select Filename. |
 
-For a full list of formatting rules for commonly documented elements, including the elements that take quotation marks, see Formatting reference.
+For a full list of formatting rules for commonly documented elements, including the elements that take quotation marks, see [Formatting reference](formatting-text.md).
 
-## Slashes
+## Slashes
 
 There are two kinds of slashes: the backslash and the forward slash.
 

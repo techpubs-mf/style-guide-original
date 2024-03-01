@@ -31,7 +31,7 @@ Apply the following guidelines to keep HID docs goal-oriented:
 
 - Identify your audience and know their needs before you plan your content.
 - Describe prerequisites or background information about the feature that a user needs in order to achieve their goal.
-- Include only the information that offers value to the reader in achieving what they set out to do. Link judiciously to supporting material or additional information. See Best practices for including links.
+- Include only the information that offers value to the reader in achieving what they set out to do. Link judiciously to supporting material or additional information. See [Best practices for including links](links.md#best-practices-for-including-links).
 - Avoid documenting how to use the UI unless you think the user might have trouble figuring it out. Consider what a user can discover on their own by exploring the product.
 - Don't include frequently asked questions (FAQs). A list of questions and answers in random order does not support user goals. Instead, incorporate the information into the relevant topic that describes how to accomplish the user's goal.
 
@@ -44,8 +44,8 @@ Apply the following guidelines to keep HID docs straightforward:
 - Title your topic and section headings in a way that readers can find the information they need.
 - Write directly and in plain language. Avoid unnecessary technical language.
 - Don't use industry-speak or jargon. Remember that people read HID docs all over the world and have varying reading comprehension levels.
-- Treat all our docs as a recommendation. See Treat HID documentation as a recommendation.
-For more information about writing in HID tone, see HID voice and tone. For guidance on topic titles, see Manual names, topic titles, and section headings.
+- Treat all our docs as a recommendation. See [Recommendations](grammar-and-word-choice.md#recommendations).
+For more information about writing in HID tone, see [HID voice and tone](voice-and-tone.md). For guidance on topic titles, see [Manual names, topic titles, and section headings](titles-and-headings.md#manual-names-topic-titles-and-section-headings).
 
 ## Rich in examples
 

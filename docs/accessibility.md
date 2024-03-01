@@ -1,5 +1,7 @@
 # Accessibility
 
+## Write accessible documentation
+
 Always aim to write content that all users can access and understand, regardless of background or ability. These guidelines make content accessible and usable for all audiences, with or without disabilities.
 
 To create accessible documentation, keep the guidelines for these categories of content in mind:
@@ -23,8 +25,8 @@ Complex sentences and long paragraphs can be daunting for some users, such as th
 Follow these guidelines to write approachable and accessible documentation:
 
 - Write using plain language, simple sentence construction, and short paragraphs.
-- Avoid using complex words, such as jargon or complicated terminology. When you need to use terminology, use it consistently. For more guidance, see Use plain language.
-- Avoid writing tasks in paragraph form. Instead, use lists to organize tasks. For more guidance on using lists, see the Lists section in this topic.
+- Avoid using complex words, such as jargon or complicated terminology. When you need to use terminology, use it consistently. For more guidance, see [Use plain language](voice-and-tone.md#use-plain-language).
+- Avoid writing tasks in paragraph form. Instead, use lists to organize tasks. For more guidance on using lists, see the [Lists](#lists) section in this topic.
 
 ### Avoid directional or visual language
 
@@ -59,9 +61,9 @@ In general, use words instead of substituting them with symbols for clarity. For
 | It can take up to about five minutes for your host to display in the user interface. | It can take up to ~5 minutes for your host to display in the user interface. |
 | In HID Web, select **Settings**, then **Advanced Search**. | In HID Web, select **Settings** > **Advanced Search**. |
 
-Spell out all symbols in text if you must use them. See Show symbols in text for more information.
+Spell out all symbols in text if you must use them. See [Show symbols in text](punctuation-and-symbols.md#show-symbols-in-text) for more information.
 
-If you're writing UI text and you don't have space to write out the name of the symbol, use hidden text such as the `aria-label` attribute to define the symbol. For more guidance, see Abbreviations in HID docs and Acronyms in HID docs.
+If you're writing UI text and you don't have space to write out the name of the symbol, use hidden text such as the `aria-label` attribute to define the symbol. For more guidance, see [Abbreviations](grammar-and-word-choice.md#abbreviations) and [Acronyms](grammar-and-word-choice.md#acronyms).
 
 ### Be precise
 
@@ -69,7 +71,7 @@ When using pronouns that point back to or substitute for a noun, consider whethe
 
 - Avoid capturing vague or broad ideas using pronouns like "this" or "these" without additional clarification.
 - Make sure that relative pronouns, like "who", "which", and "that", modify the nearest noun.
-- If a pronoun can have multiple possible referents in a sentence, always specify that referent in your writing. See Pronouns for more information.
+- If a pronoun can have multiple possible referents in a sentence, always specify that referent in your writing. See [Pronouns](grammar-and-word-choice.md#pronouns) for more information.
 
 The following table contains examples of vague sentences and more precise alternatives:
 
@@ -88,7 +90,7 @@ Follow this guidance when using headings in your documentation:
 - Organize your topic using headers down to the H3 level. If you need to use a heading level beyond an H3, your topic might be too complex.
 - Never skip heading hierarchy levels.
 
-For more guidance on headings, see Manual names, topic titles, and section headings.
+For more guidance on headings, see [Manual names, topic titles, and section headings](titles-and-headings.md#manual-names-topic-titles-and-section-headings).
 
 ### Links
 
@@ -101,7 +103,7 @@ HID docs include judicious links to supporting material and additional informati
 **Example**
 If you run HID apps with HID Enterprise, see the HID products version compatibility matrix to determine the versions that your apps are compatible with.
 
-For more guidance on linking, see Best practices for including links.
+For more guidance on linking, see [Best practices for including links](links.md#best-practices-for-including-links).
 
 ### Tables
 
@@ -111,9 +113,9 @@ Here are some accessibility best practices for tables:
 
 - If you need to leave a table cell blank, add a non-breaking space to the cell instead of leaving it empty. The HTML character entity for a non-breaking space is **`&nbsp;`**.
 - Avoid merging or splitting table cells.
-- Don't use X or another character to indicate compatibility or support. Instead, use Yes and No. See Spell out words and symbols for more information.
+- Don't use X or another character to indicate compatibility or support. Instead, use Yes and No. See [Spell out words and symbols](accessibility.md#spell-out-words-and-symbols) for more information.
 
-For more guidance on using tables, see Best practices for including tables.
+For more guidance on using tables, see [Best practices for including tables](tables.md#best-practices-for-including-tables).
 
 ### Lists
 
@@ -123,7 +125,7 @@ Follow this guidance when using lists in your documentation:
 - Ensure that each item in the list uses parallel construction.
 - Don't include more than one item, idea, or action in a single list item.
 
-Long, complicated lists that don't follow a consistent pattern hamper users with screen readers and can confuse those with reading disabilities. For more guidance on using lists, see Best practices for writing with lists.
+Long, complicated lists that don't follow a consistent pattern hamper users with screen readers and can confuse those with reading disabilities. For more guidance on using lists, see B[est practices for writing with lists](lists.md#best-practices-for-writing-with-lists).
 
 ### Images
 
@@ -137,10 +139,10 @@ Follow this guidance when using images in your documentation:
 - Don't rely on color to convey the message of the image. Use a combination of colors, shapes, patterns, explanatory text, and labels instead.
 - Ensure your image meets the contrast ratio for users with visual disabilities. See [https://webaim.org/resources/contrastchecker/](https://webaim.org/resources/contrastchecker/) on the WebAIM website.
 - When including screenshots in your content, be sure to capture the UI while using the light theme with your screen zoomed to 100%. Don't use the dark theme.
-- Always include alt text. For guidance on writing alt text, see Include alt text.
+- Always include alt text. For guidance on writing alt text, see [Include alt text in images](accessibility.md#include-alt-text-in-images).
 - Lead into an image with a description of the content and the purpose of the image that makes the image meaningful.
 
-For more guidance on using images, see Including images in HID docs.
+For more guidance on using images, see [Including images in HID docs](images.md#including-images-in-hid-docs).
 
 ### Videos
 
@@ -150,7 +152,7 @@ Always include captions and transcripts with videos. Synchronize captions with t
 
 Some HID customers use screen reader software, or screen readers, to read our documentation. Screen readers convert the contents on a page into synthesized speech for a user to listen to. All images in HID docs must have alt text so the entire page is accessible through screen reader software. Alt text is a written-out equivalent of the image that a screen reader can dictate.
 
-You can find more information about website accessibility requirements on the Americans with Disabilities Act (ADA) website and on the Section 508 government website. For more information on accessibility in HID docs, see Write accessible documentation.
+You can find more information about website accessibility requirements on the Americans with Disabilities Act (ADA) website and on the Section 508 government website. For more information on accessibility in HID docs, see [Write accessible documentation](accessibility.md#write-accessible-documentation).
 
 ### Best practices
 

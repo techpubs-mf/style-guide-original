@@ -10,8 +10,8 @@ When you are writing HID documentation, some parts of the written text, such as 
 |---|---|---|---|
 | Error messages | Quotation marks | If you see an error message such as "Invalid input value", the add-on was unable to generate a certificate with the provided information. | |
 | Keyboard shortcuts | No formatting | Select **Alt+N** for Windows or *nix or **Control+N** for Mac. | Don't include spaces in the shortcut. |
-| Manual names | Italics, headline-style capitalization | See "Connecting readers" in the *HID Linq Cloud Admin Guide* (PLT-07202). | See Manual names, topic titles, and section headings for more information. |
-| Topic titles and section headings | Sentence-style capitalization	| See Pass values to the class constructor in the HID Developer Portal. | See Manual names, topic titles, and section headings for more information. |
+| Manual names | Italics, headline-style capitalization | See "Connecting readers" in the *HID Linq Cloud Admin Guide* (PLT-07202). | See [Manual names, topic titles, and section headings](titles-and-headings.md#manual-names-topic-titles-and-section-headings) for more information. |
+| Topic titles and section headings | Sentence-style capitalization	| See Pass values to the class constructor in the HID Developer Portal. | See [Manual names, topic titles, and section headings](titles-and-headings.md#manual-names-topic-titles-and-section-headings) for more information. |
 | Words that are offset from the meaning of your sentence | Quotation marks | Search for "Query tables" on the Microsoft website. | |
 
 ### Computer elements

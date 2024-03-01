@@ -23,7 +23,7 @@ If you need to document how to integrate a HID product with a third-party produc
 
 Generally, HID documentation doesn't cover third-party software products. However, HID products sometimes require integration with third-party products. In these cases, users might need documentation about how to do something in a third-party product to be successful with HID software. Writing about or citing third-party products typically occurs in app and add-on documentation.
 
-If you need to refer to a third-party company name or product in your docs, see Referring to third-party companies and products to find the correct way to write it out.
+If you need to refer to a third-party company name or product in your docs, see [Referring to third-party companies and products](#referring-to-third-party-companies-and-products) to find the correct way to write it out.
 
 ### Evaluate the needs of your situation
 
@@ -144,6 +144,10 @@ See the following examples:
 - Install the fluent-plugin-systemd plugin for systemd journal log collection. See <https://github.com/fluent-plugin-systemd/fluent-plugin-systemd/blob/master/README.md> on GitHub.
 - Create a HID On-Call webhook by following the steps in <https://help.victorops.com/knowledge-base/rest-endpoint-integration-guide>.
 - You must create your own Slack app and add it to your workspace. See <https://api.slack.com/messaging/webhooks> in the Slack API.
+
+!!! note
+
+    Third-party links can change without notice, so check that the links work with every release of your documentation.
 
 ### Supplemental links
 
