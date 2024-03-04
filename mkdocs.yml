@@ -8,7 +8,6 @@ theme:
   # features:
   #  - navigation.tabs
   #  - navigation.sections
-  #  - toc.integrate
   #  - navigation.top
   #  - search.suggest
   #  - search.highlight
@@ -35,6 +34,7 @@ theme:
     - navigation.sections
     # - navigation.tabs
     - navigation.path
+    - toc.integrate
 
 # plugins:
 # - search
@@ -70,3 +70,28 @@ nav:
   - UI text guidelines: "ui-text-guidelines.md"
   - Videos: "videos.md"
   - Additional resources: "additional-resources.md"
+  - Usage dictionary: "usage-dictionary.md"
+  - "A-to-Z":
+      - "A":
+          - "abort, abortion": "a-to-z/a/abort-abortion.md"
+          - "above": "a-to-z/a/above.md"
+          - "access key": "a-to-z/a/access-key.md"
+          - "access": "a-to-z/a/access.md"
+          - "accessible": "a-to-z/a/accessible.md"
+          - "actionable": "a-to-z/a/actionable.md"
+          - "adapter": "a-to-z/a/adapter.md"
+          - "add-in, add-on": "a-to-z/a/add-in-add-on.md"
+          - "add": "a-to-z/a/add.md"
+          - "adjacent selection": "a-to-z/a/adjacent-selection.md"
+          - "administrator, admin": "a-to-z/a/administrator-admin.md"
+          - "alarm": "a-to-z/a/alarm.md"
+          - "alert": "a-to-z/a/alert.md"
+          - "alias": "a-to-z/a/alias.md"
+          - "allow, allows": "a-to-z/a/allow-allows.md"
+          - "alphabetical": "a-to-z/a/alphabetical.md"
+          - "alphanumeric": "a-to-z/a/alphanumeric.md"
+          - "AM, PM": "a-to-z/a/am-pm.md"
+          - "ampersand (&)": "a-to-z/a/ampersand.md"
+          - "and/or": "a-to-z/a/and-or.md"
+          - "and so on": "a-to-z/a/and-so-on.md"
+          - "antialiasing": "a-to-z/a/antialiasing.md"
