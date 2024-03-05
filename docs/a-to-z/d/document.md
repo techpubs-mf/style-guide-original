@@ -1,12 +1,3 @@
----
-title: document - Microsoft Style Guide
-author: pallep
-ms.author: pallep
-ms.date: 01/19/2018
-ms.topic: article
-ms.prod: non-product-specific
----
-
 # document
 
 Use for text files, such as files created in Word. 

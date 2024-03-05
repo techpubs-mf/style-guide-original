@@ -1,12 +1,3 @@
----
-title: Internet of Things (IoT) - Microsoft Style Guide
-author: pallep
-ms.author: pallep
-ms.date: 1/18/2019
-ms.topic: article
-ms.prod: non-product specific
----
-
 # Internet of Things (IoT)
 
 Note the capitalization. Spell out on the first mention unless you're sure that your audience knows the term 

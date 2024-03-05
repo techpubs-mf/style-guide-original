@@ -1,12 +1,3 @@
----
-title: toggle - Microsoft Style Guide
-author: pallep
-ms.author: pallep
-ms.date: 9/3/2019
-ms.topic: article
-ms.prod: non-product-specific
----
-
 # toggle
 
 Don't use as a verb. Instead, use *switch, turn on,* or *turn off* with the name of the toggle or command to describe what the customer must do.  

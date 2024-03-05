@@ -1,12 +1,3 @@
----
-title: start up, startup - Microsoft Style Guide
-author: pallep
-ms.author: pallep
-ms.date: 01/19/2018
-ms.topic: article
-ms.prod: non-product-specific
----
-
 # start up, startup
 
 Don't use *start up* as a verb. Use *start* instead.

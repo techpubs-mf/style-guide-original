@@ -1,12 +1,3 @@
----
-title: preview - Microsoft Style Guide
-author: pallep
-ms.author: pallep
-ms.date: 01/19/2018
-ms.topic: article
-ms.prod: non-product-specific
----
-
 # preview
 
 Prerelease versions of software and services are typically identified as *Product Name Preview* (preferred) or *Code Name Preview.* 

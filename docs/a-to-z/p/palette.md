@@ -1,12 +1,3 @@
----
-title: palette - Microsoft Style Guide
-author: pallep
-ms.author: pallep
-ms.date: 01/31/2019
-ms.topic: article
-ms.prod: non-product-specific
----
-
 # palette
 
 Use to describe a collection of colors or patterns that the customer can apply to objects.  

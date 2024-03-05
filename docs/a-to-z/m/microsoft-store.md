@@ -1,12 +1,3 @@
----
-title: Microsoft Store - Microsoft Style Guide
-author: pallep
-ms.author: pallep
-ms.date: 3/15/2018
-ms.topic: article
-ms.prod: non-product-specific
----
-
 # Microsoft Store
 
 Use the full name *Microsoft Store.* Note the capitalization.

@@ -1,12 +1,3 @@
----
-title: bold - Microsoft Style Guide
-author: pallep
-ms.author: pallep
-ms.date: 09/3/2019
-ms.topic: article
-ms.prod: non-product-specific
----
-
 # bold
 
 Use only as an adjective, not as a noun or verb. Don't use *bolded, boldface,* or *boldfaced*.

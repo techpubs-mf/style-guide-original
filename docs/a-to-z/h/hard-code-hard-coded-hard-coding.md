@@ -1,12 +1,3 @@
----
-title: hard-code, hard-coded, hard-coding - Microsoft Style Guide
-author: pallep
-ms.author: pallep
-ms.date: 05/28/2019
-ms.topic: article
-ms.prod: non-product-specific
----
-
 # hard-code, hard-coded, hard-coding
 
 Always hyphenate. 

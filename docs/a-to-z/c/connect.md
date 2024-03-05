@@ -1,12 +1,3 @@
----
-title: connect - Microsoft Style Guide
-author: pallep
-ms.author: pallep
-ms.date: 01/19/2018
-ms.topic: article
-ms.prod: non-product-specific
----
-
 # connect
 
 Use *connect, make a connection,* and similar phrases to describe attaching a computer to a network, whether intranet or internet.

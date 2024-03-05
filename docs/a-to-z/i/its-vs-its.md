@@ -1,12 +1,3 @@
----
-title: its vs. it's - Microsoft Style Guide
-author: pallep
-ms.author: pallep
-ms.date: 03/12/2018
-ms.topic: article
-ms.prod: non-product-specific
----
-
 # its vs. it's
 
 Proofread your work to be sure you've used the correct word. 

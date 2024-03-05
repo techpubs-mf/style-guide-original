@@ -1,12 +1,3 @@
----
-title: style sheet - Microsoft Style Guide
-author: pallep
-ms.author: pallep
-ms.date: 01/19/2018
-ms.topic: article
-ms.prod: non-product-specific
----
-
 # style sheet
 
 Two words. Use to refer to a file of instructions for formatting

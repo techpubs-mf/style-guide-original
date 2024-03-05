@@ -1,12 +1,3 @@
----
-title: dark mode - Microsoft Style Guide
-author: pallep
-ms.author: pallep
-ms.date: 04/30/2021
-ms.topic: article
-ms.prod: non-product-specific
----
-
 # dark mode
 
 Lowercase, two words. 

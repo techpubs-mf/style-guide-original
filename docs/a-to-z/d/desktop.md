@@ -1,12 +1,3 @@
----
-title: desktop - Microsoft Style Guide
-author: pallep
-ms.author: pallep
-ms.date: 02/28/2019
-ms.topic: article
-ms.prod: non-product-specific
----
-
 # desktop
 
 Use to refer to the work area on the Windows screen. Refer to the desktop as *client area* only in content 

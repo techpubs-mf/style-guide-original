@@ -1,12 +1,3 @@
----
-title: disjoint selection - Microsoft Style Guide
-author: pallep
-ms.author: pallep
-ms.date: 01/19/2018
-ms.topic: article
-ms.prod: non-product-specific
----
-
 # disjoint selection
 
 Don't use except in content for a technical audience, and only if the term appears in the UI or API. 

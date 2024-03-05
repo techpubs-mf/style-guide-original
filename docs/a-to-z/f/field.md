@@ -1,12 +1,3 @@
----
-title: field - Microsoft Style Guide
-author: pallep
-ms.author: pallep
-ms.date: 01/19/2018
-ms.topic: article
-ms.prod: non-product-specific
----
-
 # field
 
 Don't use to refer to a text-entry box. Refer to the box by its label. If you must use a descriptor, use *box* instead of *field*. 

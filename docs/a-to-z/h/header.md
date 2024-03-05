@@ -1,12 +1,3 @@
----
-title: header - Microsoft Style Guide
-author: pallep
-ms.author: pallep
-ms.date: 01/19/2018
-ms.topic: article
-ms.prod: non-product-specific
----
-
 # header
 
 In content related to word-processing and publishing apps, use instead of *running head* when discussing page layout. It's OK to use *running head* for clarification or as a keyword.

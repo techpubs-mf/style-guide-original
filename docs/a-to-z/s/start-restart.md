@@ -1,12 +1,3 @@
----
-title: start, restart - Microsoft Style Guide
-author: pallep
-ms.author: pallep
-ms.date: 04/30/2018
-ms.topic: article
-ms.prod: non-product-specific
----
-
 # start, restart
 
 Don't use *start* to describe selecting a program or app to open it. Use *open* instead. 

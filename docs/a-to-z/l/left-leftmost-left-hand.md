@@ -1,12 +1,3 @@
----
-title: left, leftmost, left-hand - Microsoft Style Guide
-author: pallep
-ms.author: pallep
-ms.date: 01/19/2018
-ms.topic: article
-ms.prod: non-product-specific
----
-
 # left, leftmost, left-hand
 
 Don't use *left* as a directional term by itself. Instead, use a term such as *upper left,* *lower left,* *leftmost,* or *on the left side of*. Include a hyphen when you use *left* to modify a noun, as in *upper-left corner*. Don't use *left-hand* as a modifier.

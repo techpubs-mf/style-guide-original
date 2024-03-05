@@ -1,12 +1,3 @@
----
-title: text, text message - Microsoft Style Guide
-author: pallep
-ms.author: pallep
-ms.date: 01/19/2018
-ms.topic: article
-ms.prod: non-product-specific
----
-
 # text, text message
 
 Use as an adjective, a noun, or a verb in the context of SMS messages. Use *text message* and *send* or *receive* *a text message,* if necessary, to avoid ambiguity. 

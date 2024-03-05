@@ -1,12 +1,3 @@
----
-title: value axis - Microsoft Style Guide
-author: pallep
-ms.author: pallep
-ms.date: 01/19/2018
-ms.topic: article
-ms.prod: non-product-specific
----
-
 # value axis
 
 Lowercase. Don't hyphenate.

@@ -1,12 +1,3 @@
----
-title: tile, Live Tile - Microsoft Style Guide
-author: pallep
-ms.author: pallep
-ms.date: 07/31/2018
-ms.topic: article
-ms.prod: non-product-specific
----
-
 # tile, Live Tile
 
 Lowercase *tile*

@@ -1,12 +1,3 @@
----
-title: argument vs. parameter - Microsoft Style Guide
-author: pallep
-ms.author: pallep
-ms.date: 01/19/2018
-ms.topic: article
-ms.prod: non-product-specific
----
-
 # argument vs. parameter
 
 These terms are often used interchangeably.

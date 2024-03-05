@@ -1,12 +1,3 @@
----
-title: thanks, thank you - Microsoft Style Guide
-author: pallep
-ms.author: pallep
-ms.date: 06/26/2018
-ms.topic: article
-ms.prod: non-product-specific
----
-
 # thanks, thank you
 
 In general, use *thanks* not *thank you.* It's OK to use *thank you* in content that has a formal tone 

@@ -1,12 +1,3 @@
----
-title: later - Microsoft Style Guide
-author: pallep
-ms.author: pallep
-ms.date: 01/19/2018
-ms.topic: article
-ms.prod: non-product-specific
----
-
 # later
 
 If possible, use a hyperlink to help readers find information elsewhere in the content. If you can't use a hyperlink, use *later* instead of *below* in cross-references such as *later in this article.*

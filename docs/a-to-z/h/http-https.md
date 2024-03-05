@@ -1,12 +1,3 @@
----
-title: HTTP, HTTPS - Microsoft Style Guide
-author: pallep
-ms.author: pallep
-ms.date: 06/26/2018
-ms.topic: article
-ms.prod: non-product-specific
----
-
 # HTTP, HTTPS
 
 Don’t

@@ -1,12 +1,3 @@
----
-title: registry, registry settings - Microsoft Style Guide
-author: pallep
-ms.author: pallep
-ms.date: 08/16/2019
-ms.topic: article
-ms.prod: non-product-specific
----
-
 # registry, registry settings
 
 Use lowercase for the word *registry* except when referring to a named system component, such as the Registry Editor. 

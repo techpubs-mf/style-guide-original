@@ -1,12 +1,3 @@
----
-title: sign in, sign out - Microsoft Style Guide
-author: pallep
-ms.author: pallep
-ms.date: 06/27/2019
-ms.topic: article
-ms.prod: non-product-specific
----
-
 # sign in, sign out
 
 Use *sign in*

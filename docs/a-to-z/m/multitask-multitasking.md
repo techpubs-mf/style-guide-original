@@ -1,12 +1,3 @@
----
-title: multitask, multitasking - Microsoft Style Guide
-author: pallep
-ms.author: pallep
-ms.date: 01/19/2018
-ms.topic: article
-ms.prod: non-product-specific
----
-
 # multitask, multitasking
 
 Don't use *multitask* as a verb. *Multitasking* is OK to use as a noun or an adjective.

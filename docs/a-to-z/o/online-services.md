@@ -1,12 +1,3 @@
----
-title: online services - Microsoft Style Guide
-author: pallep
-ms.author: pallep
-ms.date: 01/19/2018
-ms.topic: article
-ms.prod: non-product-specific
----
-
 # online services
 
 Avoid. If you need to refer generally to apps and services that you access online, mention the services by name or use *services.* 

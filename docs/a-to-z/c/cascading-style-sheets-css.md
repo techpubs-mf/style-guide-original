@@ -1,12 +1,3 @@
----
-title: Cascading Style Sheets (CSS) - Microsoft Style Guide
-author: pallep
-ms.author: pallep
-ms.date: 01/19/2018
-ms.topic: article
-ms.prod: non-product-specific
----
-
 # Cascading Style Sheets (CSS)
 
 Capitalize references to the technique for adding fonts, colors, and so on to web content. Spell out unless the abbreviation *CSS* is familiar to your audience.

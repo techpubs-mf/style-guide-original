@@ -1,12 +1,3 @@
----
-title: Date and time terms - Microsoft Style Guide
-author: pallep
-ms.author: pallep
-ms.date: 04/4/2019
-ms.topic: article
-ms.prod: non-product-specific
----
-
 # Date and time terms
 
 This section covers usage for terms related to time and date.

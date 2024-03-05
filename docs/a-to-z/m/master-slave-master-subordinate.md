@@ -1,12 +1,3 @@
----
-title: master/slave, master/subordinate - Microsoft Style Guide
-author: pallep
-ms.author: pallep
-ms.date: 02/10/2018
-ms.topic: article
-ms.prod: non-product-specific
----
-
 # master/slave, master/subordinate
 
 Don't use *master/slave.* 

@@ -1,12 +1,3 @@
----
-title: wizard - Microsoft Style Guide
-author: pallep
-ms.author: pallep
-ms.date: 01/19/2018
-ms.topic: article
-ms.prod: non-product-specific
----
-
 # wizard
 
 In general, don't use the term *wizard* unless it appears in the UI. Instead, talk about what the customer needs to do to accomplish the task.

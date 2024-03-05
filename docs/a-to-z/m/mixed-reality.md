@@ -1,12 +1,3 @@
----
-title: mixed reality, mixed-reality - Microsoft Style Guide
-author: pallep
-ms.author: pallep
-ms.date: 04/1/2019
-ms.topic: article
-ms.prod: non-product-specific
----
-
 # mixed reality, mixed-reality
 
 Two words as a noun. Hyphenate as an adjective. 

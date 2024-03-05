@@ -1,12 +1,3 @@
----
-title: scroll - Microsoft Style Guide
-author: pallep
-ms.author: pallep
-ms.date: 01/19/2018
-ms.topic: article
-ms.prod: non-product-specific
----
-
 # scroll
 
 Avoid. Use a verb phrase such as *move through* instead, if the context is clear.

@@ -1,12 +1,3 @@
----
-title: slider - Microsoft Style Guide
-author: pallep
-ms.author: pallep
-ms.date: 01/19/2018
-ms.topic: article
-ms.prod: non-product-specific
----
-
 # slider
 
 In general, avoid talking about UI elements. Most of the time, just describe what the customer needs to do.

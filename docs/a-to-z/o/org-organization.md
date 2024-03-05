@@ -1,12 +1,3 @@
----
-title: org, organization - Microsoft Style Guide
-author: pallep
-ms.author: pallep
-ms.date: 09/11/2018
-ms.topic: article
-ms.prod: non-product-specific
----
-
 # org, organization
 
 Use the term that makes the most sense for your audience.  

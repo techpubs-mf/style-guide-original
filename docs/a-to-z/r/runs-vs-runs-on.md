@@ -1,12 +1,3 @@
----
-title: runs vs. runs on - Microsoft Style Guide
-author: pallep
-ms.author: pallep
-ms.date: 01/19/2018
-ms.topic: article
-ms.prod: non-product-specific
----
-
 # runs vs. runs on
 
 Avoid *run* for a general audience. For a technical audience, use *run* to refer to an operating system and *run on* to refer to a program. 

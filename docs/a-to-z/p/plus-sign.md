@@ -1,12 +1,3 @@
----
-title: plus sign (+) - Microsoft Style Guide
-author: pallep
-ms.author: pallep
-ms.date: 01/19/2018
-ms.topic: article
-ms.prod: non-product-specific
----
-
 # plus sign (+)
 
 Don’t use the plus sign (+) to replace words like *and, over,* and *plus.*

@@ -1,12 +1,3 @@
----
-title: if vs. whether vs. when - Microsoft Style Guide
-author: pallep
-ms.author: pallep
-ms.date: 01/19/2018
-ms.topic: article
-ms.prod: non-product-specific
----
-
 # if vs. whether vs. when
 
 Use *if* to express a condition, use *whether* to express uncertainty, and use *when* for situations that require preparation or to denote the passage of time.

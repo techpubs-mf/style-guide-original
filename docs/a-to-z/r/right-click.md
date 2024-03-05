@@ -1,12 +1,3 @@
----
-title: right-click - Microsoft Style Guide
-author: pallep
-ms.author: pallep
-ms.date: 09/21/2019
-ms.topic: article
-ms.prod: non-product-specific
----
-
 # right-click
 
 Use only when you need to talk specifically about mouse actions. Define in content that teaches beginning skills 

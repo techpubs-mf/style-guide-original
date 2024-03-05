@@ -1,12 +1,3 @@
----
-title: instant message, IM - Microsoft Style Guide
-author: pallep
-ms.author: pallep
-ms.date: 01/19/2018
-ms.topic: article
-ms.prod: non-product-specific
----
-
 # instant message, IM
 
 Spell out *instant message* or *instant messaging* on the first mention if your audience might not be familiar with the abbreviation. After that, it's OK to use *IM* as a noun or modifier<em>.</em>

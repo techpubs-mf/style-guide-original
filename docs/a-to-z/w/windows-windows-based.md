@@ -1,12 +1,3 @@
----
-title: Windows, Windows-based - Microsoft Style Guide
-author: pallep
-ms.author: pallep
-ms.date: 01/19/2018
-ms.topic: article
-ms.prod: non-product-specific
----
-
 # Windows, Windows-based
 
 Use *Windows* as a modifier for aspects or elements of the Windows operating system. Don't use *Windows-based.*

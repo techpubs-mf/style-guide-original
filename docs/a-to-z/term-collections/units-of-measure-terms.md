@@ -1,12 +1,3 @@
----
-title: Units of measure terms - Microsoft Style Guide
-author: pallep
-ms.author: pallep
-ms.date: 03/12/2018
-ms.topic: article
-ms.prod: non-product-specific
----
-
 # Units of measure terms
 
 This

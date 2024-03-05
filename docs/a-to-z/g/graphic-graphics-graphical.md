@@ -1,12 +1,3 @@
----
-title: graphic, graphics, graphical - Microsoft Style Guide
-author: pallep
-ms.author: pallep
-ms.date: 01/19/2018
-ms.topic: article
-ms.prod: non-product-specific
----
-
 # graphic, graphics, graphical
 
 As a noun, use *graphic* to refer to a picture, display, chart, or other visual representation.

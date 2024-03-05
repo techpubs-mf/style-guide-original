@@ -1,12 +1,3 @@
----
-title: navigate - Microsoft Style Guide
-author: pallep
-ms.author: pallep
-ms.date: 01/19/2018
-ms.topic: article
-ms.prod: non-product-specific
----
-
 # navigate
 
 Don't use to describe going from place to place on the internet or an intranet. Use *browse* instead. 

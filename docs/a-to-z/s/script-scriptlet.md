@@ -1,12 +1,3 @@
----
-title: script, scriptlet - Microsoft Style Guide
-author: pallep
-ms.author: pallep
-ms.date: 01/19/2018
-ms.topic: article
-ms.prod: non-product-specific
----
-
 # script, scriptlet
 
 Avoid *scriptlet*. Most of the time, use *script* or a more specific term.

@@ -1,12 +1,3 @@
----
-title: drill down, drill up, drill through - Microsoft Style Guide
-author: pallep
-ms.author: pallep
-ms.date: 11/26/2018
-ms.topic: article
-ms.prod: non-product specific
----
-
 # drill down, drill up, drill through
 
 It's OK to use *drill down, drill up,* and *drill through* in content about data and the reports generated from them.

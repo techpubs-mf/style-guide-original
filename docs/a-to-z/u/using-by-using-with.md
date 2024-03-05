@@ -1,12 +1,3 @@
----
-title: using, by using, with - Microsoft Style Guide
-author: pallep
-ms.author: pallep
-ms.date: 01/19/2018
-ms.topic: article
-ms.prod: non-product-specific
----
-
 # using, by using, with
 
 In instructions or technical content, use *by using* or *that use* to eliminate ambiguity.

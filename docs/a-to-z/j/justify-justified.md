@@ -1,12 +1,3 @@
----
-title: justify, justified - Microsoft Style Guide
-author: pallep
-ms.author: pallep
-ms.date: 01/19/2018
-ms.topic: article
-ms.prod: non-product-specific
----
-
 # justify, justified
 
 Don't use as a synonym for *aligned*. Justified text is text that is both left-aligned and right-aligned. To describe alignment on one margin only, use *left-aligned* or *right-aligned,* not *left-justified* or *right-justified*.

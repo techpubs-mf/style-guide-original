@@ -1,12 +1,3 @@
----
-title: move - Microsoft Style Guide
-author: pallep
-ms.author: pallep
-ms.date: 01/19/2018
-ms.topic: article
-ms.prod: non-product-specific
----
-
 # move
 
 Use as a verb to describe transferring files or folders from one local location to another. 

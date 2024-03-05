@@ -1,12 +1,3 @@
----
-title: Computer and device terms - Microsoft Style Guide
-author: pallep
-ms.author: pallep
-ms.date: 02/28/2019
-ms.topic: article
-ms.prod: non-product-specific
----
-
 # Computer and device terms
 
 In

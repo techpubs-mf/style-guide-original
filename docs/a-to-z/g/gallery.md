@@ -1,12 +1,3 @@
----
-title: gallery - Microsoft Style Guide
-author: pallep
-ms.author: pallep
-ms.date: 01/19/2018
-ms.topic: article
-ms.prod: non-product-specific
----
-
 # gallery
 
 Don't use to mean a marketplace or store. 

@@ -1,12 +1,3 @@
----
-title: input - Microsoft Style Guide
-author: pallep
-ms.author: pallep
-ms.date: 02/21/2018
-ms.topic: article
-ms.prod: non-product-specific
----
-
 # input
 
 Don't use as a verb. Use *enter* or another appropriate verb instead. 

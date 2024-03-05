@@ -1,12 +1,3 @@
----
-title: author - Microsoft Style Guide
-author: pallep
-ms.author: pallep
-ms.date: 08/8/2019
-ms.topic: article
-ms.prod: non-product-specific
----
-
 # author
 
 Don't use as a verb to mean *to make something.* Instead, use a clearer verb that accurately describes the action, such as *write, create, design, produce,* or *build.*  

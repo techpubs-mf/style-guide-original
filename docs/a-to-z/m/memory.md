@@ -1,12 +1,3 @@
----
-title: memory - Microsoft Style Guide
-author: pallep
-ms.author: pallep
-ms.date: 01/19/2018
-ms.topic: article
-ms.prod: non-product-specific
----
-
 # memory
 
 Always refer to a specific kind of memory, such as *random-access memory (*<em>RAM)</em>*, read-only memory (ROM),* or *hard drive space*. 

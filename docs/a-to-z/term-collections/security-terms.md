@@ -1,12 +1,3 @@
----
-title: Security terms - Microsoft Style Guide
-author: pallep
-ms.author: pallep
-ms.date: 01/19/2018
-ms.topic: article
-ms.prod: non-product-specific
----
-
 # Security terms
 
 This section describes usage for specific security terms. For definitions of security terms, see the [Microsoft Malware Protection Glossary](https://www.microsoft.com/security/portal/mmpc/shared/glossary.aspx). 

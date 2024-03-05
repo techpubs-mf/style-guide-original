@@ -1,12 +1,3 @@
----
-title: pin, unpin - Microsoft Style Guide
-author: pallep
-ms.author: pallep
-ms.date: 05/9/2018
-ms.topic: article
-ms.prod: non-product-specific
----
-
 # pin, unpin
 
 Use *pin* to refer to placing an item, such as a tile, an app, or a command, in a given area of the UI, so it's always accessible in that area. Use *unpin* to describe removing a pinned item.

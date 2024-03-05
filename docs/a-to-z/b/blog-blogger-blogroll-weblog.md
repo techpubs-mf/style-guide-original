@@ -1,12 +1,3 @@
----
-title: blog, blogger, blogroll, weblog - Microsoft Style Guide
-author: pallep
-ms.author: pallep
-ms.date: 01/19/2018
-ms.topic: article
-ms.prod: non-product-specific
----
-
 # blog, blogger, blogroll, weblog
 
 Use *blog* as a noun or verb. Don't use *weblog.* 

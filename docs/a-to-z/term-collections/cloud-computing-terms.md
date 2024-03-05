@@ -1,12 +1,3 @@
----
-title: Cloud-computing terms - Microsoft Style Guide
-author: pallep
-ms.author: pallep
-ms.date: 04/8/2019
-ms.topic: article
-ms.prod: non-product-specific
----
-
 # Cloud-computing terms
 
 As

@@ -1,12 +1,3 @@
----
-title: Accessibility terms - Microsoft Style Guide
-author: pallep
-ms.author: pallep
-ms.date: 01/19/2018
-ms.topic: article
-ms.prod: non-product-specific
----
-
 # Accessibility terms
 
 Write in a way that puts people first by using the phrase *person with* or *person who.*

@@ -1,12 +1,3 @@
----
-title: launch - Microsoft Style Guide
-author: pallep
-ms.author: pallep
-ms.date: 04/30/2018
-ms.topic: article
-ms.prod: non-product-specific
----
-
 # launch
 
 Don't use to mean opening an app or form. Use *open* instead.

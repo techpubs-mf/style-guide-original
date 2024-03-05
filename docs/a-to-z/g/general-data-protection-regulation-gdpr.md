@@ -1,12 +1,3 @@
----
-title: General Data Protection Regulation (GDPR) - Microsoft Style Guide
-author: pallep
-ms.author: pallep
-ms.date: 02/16/2018
-ms.topic: article
-ms.prod: non-product-specific
----
-
 # General Data Protection Regulation (GDPR)
 
 Capitalize and spell out on the first mention. 

@@ -1,12 +1,3 @@
----
-title: dialog box, dialog, dialogue - Microsoft Style Guide
-author: pallep
-ms.author: pallep
-ms.date: 07/23/2018
-ms.topic: article
-ms.prod: non-product-specific
----
-
 # dialog box, dialog, dialogue
 
 Most of the time, avoid talking about UI elements. Talk about customer actions instead.

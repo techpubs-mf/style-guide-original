@@ -1,12 +1,3 @@
----
-title: simply - Microsoft Style Guide
-author: pallep
-ms.author: pallep
-ms.date: 01/19/2018
-ms.topic: article
-ms.prod: non-product-specific
----
-
 # simply
 
 Don't use to mean that something is easy to do. 

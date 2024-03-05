@@ -1,12 +1,3 @@
----
-title: app, application - Microsoft Style Guide
-author: pallep
-ms.author: pallep
-ms.date: 01/19/2018
-ms.topic: article
-ms.prod: non-product-specific
----
-
 # app, application
 
 If possible, refer to a product by its descriptor, such as *database management system* or *spreadsheet.*

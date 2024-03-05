@@ -1,12 +1,3 @@
----
-title: issue - Microsoft Style Guide
-author: pallep
-ms.author: pallep
-ms.date: 01/19/2018
-ms.topic: article
-ms.prod: non-product-specific
----
-
 # issue
 
 Don't use as a verb. Describe what's happening, or use a more specific verb instead.

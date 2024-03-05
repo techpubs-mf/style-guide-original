@@ -1,12 +1,3 @@
----
-title: download - Microsoft Style Guide
-author: pallep
-ms.author: pallep
-ms.date: 01/19/2018
-ms.topic: article
-ms.prod: non-product-specific
----
-
 # download
 
 Use *download* to describe the intentional transfer of data and files to a system or device. Use *install* to describe adding apps, hardware, and drivers to a device. 

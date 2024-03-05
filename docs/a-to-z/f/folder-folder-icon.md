@@ -1,12 +1,3 @@
----
-title: folder, folder icon - Microsoft Style Guide
-author: pallep
-ms.author: pallep
-ms.date: 01/19/2018
-ms.topic: article
-ms.prod: non-product-specific
----
-
 # folder, folder icon
 
 In general, try not to talk about UI. Instead, talk about what the customer should do. 

@@ -1,12 +1,3 @@
----
-title: Help - Microsoft Style Guide
-author: pallep
-ms.author: pallep
-ms.date: 01/19/2018
-ms.topic: article
-ms.prod: non-product-specific
----
-
 # Help
 
 Most of the time, use just *Help.* Don't use *online Help* unless you need to describe the Help system. Capitalize when referring to a Help system within a product.

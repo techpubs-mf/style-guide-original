@@ -1,12 +1,3 @@
----
-title: notification - Microsoft Style Guide
-author: pallep
-ms.author: pallep
-ms.date: 01/19/2018
-ms.topic: article
-ms.prod: non-product-specific
----
-
 # notification
 
 Use instead of *notice* to describe information displayed to a customer about communications, contacts, a service problem, or other item. Don't use *pop-up, toast,* or *banner* for this purpose.

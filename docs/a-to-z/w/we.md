@@ -1,12 +1,3 @@
----
-title: we - Microsoft Style Guide
-author: pallep
-ms.author: pallep
-ms.date: 07/17/2018
-ms.topic: article
-ms.prod: non-product-specific
----
-
 # we
 
 In general, don't use. Focus on the customer, and avoid making Microsoft the subject.  

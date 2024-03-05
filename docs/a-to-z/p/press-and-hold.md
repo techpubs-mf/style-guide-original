@@ -1,12 +1,3 @@
----
-title: press, press and hold - Microsoft Style Guide
-author: pallep
-ms.author: pallep
-ms.date: 09/21/2019
-ms.topic: article
-ms.prod: non-product-specific
----
-
 # press, press and hold
 
 Use only to describe pushing a physical button on hardware.

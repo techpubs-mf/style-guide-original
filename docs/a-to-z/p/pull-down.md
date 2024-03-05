@@ -1,12 +1,3 @@
----
-title: pull-down - Microsoft Style Guide
-author: pallep
-ms.author: pallep
-ms.date: 05/17/2018
-ms.topic: article
-ms.prod: non-product-specific
----
-
 # pull down, pull-down
 
 In general, avoid talking about UI. Instead, describe what the customer needs to do. 
