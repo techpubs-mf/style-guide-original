@@ -5,7 +5,8 @@ It's OK to use *drill down, drill up,* and *drill through* in content about data
 Two words as a verb. Hyphenate *drill-down* and *drill-up* as adjectives. Note that *drillthrough* as a noun or an adjective 
 is one word, no hyphen.
 
-**Examples**  
+## Examples
+
 If you have grouped items in your PivotTable, you can drill down on a group name. Then, you can drill back up 
 to analyze summary data.  
 Using drill-down and drill-up actions, you can expand and collapse sections within a report to find the data 

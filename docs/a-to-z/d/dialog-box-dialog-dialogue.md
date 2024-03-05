@@ -6,7 +6,8 @@ When you need to refer to a dialog box, use *dialog box*—don't shorten to *dia
 
 Don't hyphenate *dialog box* as a modifier.
 
-**Examples**  
+## Examples
+
 Word can't open this document because a dialog box is open. Close the dialog box to continue.  
 Select the **Paragraph** dialog box launcher, and then select **Tabs**.   
 
@@ -14,7 +15,8 @@ Select the **Paragraph** dialog box launcher, and then select **Tabs**.
 
 It's OK to use *dialogue* (not *dialog*) to refer to conversation or interaction between people or between a person and a computer. But use a more familiar, friendlier term such as *conversation* or *chat* if you can.
 
-**Examples**   
+## Examples
+
 It's a great way to have a conversation with the customer about what cloud technology can do for their business.  
 Do you want to chat with a customer service agent?
 

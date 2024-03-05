@@ -6,7 +6,8 @@ In content for a technical audience, it's OK to use *boot* as an adjective, as i
 
 If the UI or API uses *boot* in a label or element name, use *boot* to refer to the label or element name, but use *start* or *startup* to refer to the action or event described.
 
-**Examples**  
+## Examples
+
 The Boot.ini file stores startup options.  
 Diagnosing and correcting problems that affect the startup process is an important troubleshooting skill.  
 

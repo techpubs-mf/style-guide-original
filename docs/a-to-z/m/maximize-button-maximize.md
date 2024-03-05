@@ -4,7 +4,8 @@ Use the ***Maximize*** *button* to refer to the button, not just ***Maximize***.
 
 It's OK to use *maximize* as a verb. 
 
-**Examples**    
+## Examples
+
 Select the **Maximize** button.     
 To fill the screen, maximize the window.   
 Select ![](media/maximize-button-maximize/302251874.png).

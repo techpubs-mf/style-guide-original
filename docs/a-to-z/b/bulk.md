@@ -8,7 +8,8 @@ Don’t use *bulk* in compound nouns.
 
 Don't hyphenate.
 
-**Examples**  
+## Examples
+
 Add multiple users at the same time.  
 Replace a value across a large number of fields.  
 Update multiple product attributes in a single operation.

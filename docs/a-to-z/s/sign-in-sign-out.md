@@ -9,7 +9,8 @@ sign off,* or *sign on* unless these terms appear in the UI (and you're writing 
 
 The verb form is two words, *sign in* or *sign out.* Avoid using as a noun or adjective (*sign-in, sign-out*). Instead, use a more descriptive or precise term.
 
-**Examples**  
+## Examples
+
 Enter your password to sign in.  
 Learn how to sign in to Power BI service on the web and how to sign out of it.  
 After an extended period without activity, the network will sign you out automatically.  

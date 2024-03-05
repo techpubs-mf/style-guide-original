@@ -6,7 +6,8 @@ In content for a technical audience, it's OK to use *disable* to mean making a c
 
 In other content, use *turned off* or *isn’t available.*
 
-**Examples**   
+## Examples
+
 If the command prompt isn’t available, your network administrator might have turned off this feature.  
 Disable the command prompt to prevent users from opening a command window. 
 

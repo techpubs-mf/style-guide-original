@@ -2,7 +2,8 @@
 
 Use *executable* and *.exe* as adjectives, not nouns. Use *an,* not *a,* as the article preceding .exe: *an .exe file.*
 
-**Examples**  
+## Examples
+
 an executable program  
 the .exe file  
 

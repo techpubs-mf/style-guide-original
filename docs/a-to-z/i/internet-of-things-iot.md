@@ -5,7 +5,8 @@ or *IoT* appears as part of a Microsoft product name. On subsequent mentions, us
 
 Include *the* with the spelled-out term but not the acronym.  
 
-**Examples**   
+## Examples
+
 The Internet of Things (IoT) is reshaping every industry from manufacturing to medicine. And although IoT 
 is a complicated endeavor, new innovations are making projects easier to deploy.  
 Learn how to use Microsoft Azure IoT Hub to connect, monitor, and control billions of Internet of Things assets.  

@@ -5,7 +5,8 @@ describe a token that's temporarily assigned to a device or object to
 identify and provide access to the device, insert a space between
 the word *handle* and the sequential number.
 
-**Examples**   
+## Examples
+
 handle 0  
 handle 1  
 handle 2

@@ -13,7 +13,8 @@ It's OK to use *email* as a verb.
 
 Use *Email* at the beginning of a sentence or heading. Never hyphenate *email* or capitalize the *m.*
 
-**Examples**  
+## Examples
+
 You have two new emails.  
 Scroll through email to find the message you want to read.  
 You have new mail.  

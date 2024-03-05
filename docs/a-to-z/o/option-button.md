@@ -5,7 +5,8 @@ In general, avoid talking about the UI. Instead, talk about what the customer ne
 Avoid referring to the option button itself. Just discuss the option that it
 controls. When you must mention the button for clarity, use *option button*.
 
-**Examples**  
+## Examples
+
 Select **No header row.**  
 When you select the **Keep source formatting** option, ....  
 For **Paste options**, select **Keep text only**.  

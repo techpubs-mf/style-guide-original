@@ -2,6 +2,7 @@
 
 Use instead of *file extension*. 
 
-**Examples**  
+## Examples
+
 the .bak extension  
 the .bak file name extension

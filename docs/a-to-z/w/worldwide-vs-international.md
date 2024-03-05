@@ -2,7 +2,8 @@
 
 Use *worldwide* to describe something that encompasses all regions or involves the entire world.
 
-**Examples**  
+## Examples
+
 Get one month of free, worldwide calling.   
 OneNote Mobile for Android is now available in more than 20 markets worldwide.
 
@@ -19,7 +20,8 @@ worldwide.
 
 Don’t use *international* to mean “outside the United States.” Instead, refer to a specific region or use wording that describes what you mean.
 
-**Examples**  
+## Examples
+
 In
 the first half of 2016, Azure achieved new certifications in Japan,
 Spain, and the United Kingdom and expanded certifications in seven other

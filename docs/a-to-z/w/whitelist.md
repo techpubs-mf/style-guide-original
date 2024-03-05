@@ -2,6 +2,7 @@
 
 Consider alternatives where possible.
 
-**Examples**  
+## Examples
+
 Safe Recipients list   
 blocked or safe programs

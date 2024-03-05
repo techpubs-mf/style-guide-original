@@ -9,7 +9,8 @@ at the beginning of a clause that adds supporting or parenthetical
 information. If you can omit the clause and the sentence still makes
 sense, use *which,* and put a comma before it.
 
-**Examples**  
+## Examples
+
 To learn more about features that aren’t supported in the trial version, see the feature comparison chart.  
 Catch the latest episode of “This Week on Windows,” which looks at the new Surface Book and more.  
 The comparison chart shows which features aren't supported in the trial version.

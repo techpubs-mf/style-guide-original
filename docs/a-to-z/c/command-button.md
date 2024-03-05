@@ -5,7 +5,8 @@ use in content for a general audience. Most of the time,
 just refer to the button by its UI label. In content that
 teaches beginning skills, use the label followed by the word *button*. 
 
-**Examples**  
+## Examples
+
 For information about the dialog box, select the **Help** button.  
 For information about the dialog box, select **Help**.
 

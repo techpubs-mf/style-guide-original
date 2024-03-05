@@ -2,7 +2,8 @@
 
 Avoid generic terms such as *set* and *specify* to describe customer actions. Try to use more specific verbs.
 
-**Examples**  
+## Examples
+
 Select a color for an appointment or a meeting.  
 Enter a location for **Tab stop position**.
 

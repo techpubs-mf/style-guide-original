@@ -4,7 +4,8 @@
 
 Use *shortcut menu* only if it helps the customer locate the item in the UI. Most of the time, just describe what the customer needs to do. 
 
-**Examples**  
+## Examples
+
 Use **Alt+Spacebar** to display the shortcut menu for the active window.  
 Right-click the selected text, and then select **Copy**.  
 Select the text, open the shortcut menu, and then select **Copy**.

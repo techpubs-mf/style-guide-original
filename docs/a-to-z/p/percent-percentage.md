@@ -10,7 +10,8 @@ It's OK to use the percent sign (%):
 
 Always use a numeral with *percent,* no matter how small. 
 
-**Examples**  
+## Examples
+
 At least 50 percent of your system resources should be available.  
 Only 1 percent of the test group was unable to complete the task.   
 
@@ -22,7 +23,8 @@ Use *percentage:*
   - When you don't specify a quantity, such as in the phrase *a large percentage of system resources.*
   - When applying the percentage formula (base \* rate percent = percentage)*.*
 
-**Examples**  
+## Examples
+
 
 | List price | Discount percent | Discount percentage |Sales price|
 |---|---|---|---|

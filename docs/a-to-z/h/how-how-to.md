@@ -2,7 +2,8 @@
 
 Don’t use *how-to* as a noun. Always hyphenate as an adjective. Never capitalize the *t* in *to*.
 
-**Examples**  
+## Examples
+
 how-to book  
 how-to article  
 How to add an article to the library  

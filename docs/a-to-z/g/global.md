@@ -13,7 +13,8 @@ Instead, describe the action or use *all instances* or *all occurrences.*
 
 It's OK to use *global* to mean *worldwide*.
 
-**Examples**  
+## Examples
+
 A cascading style sheet establishes global design formats.   
 Use the **Find** and **Replace** commands to find all occurrences of specific text and replace it with different text.  
 The manufacturer is using Office 365 to expand its global supply chain.  

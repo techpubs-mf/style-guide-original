@@ -13,7 +13,8 @@ Use *create* to describe writing the HTML code that forms the link.
 
 In content for web designers, it's OK to use *followed link* to refer to a destination that the reader has already visited. Don't use in content for other audiences.
 
-**Examples**  
+## Examples
+
 Select the link to go to another webpage.   
 On the **Insert** tab, select **Hyperlink** in the **Links** group.  
 

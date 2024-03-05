@@ -6,7 +6,8 @@ Use *delete* to refer to actions that result from pressing the Delete or Backspa
 
 Don't use *delete* as a synonym for *remove*. Don't use *cut* or *erase* as a synonym for *delete*.
 
-**Examples**  
+## Examples
+
 Delete the second paragraph.  
 Delete MyFile.txt from the Windows folder.  
 Remove the **Size** column from the Inbox.  

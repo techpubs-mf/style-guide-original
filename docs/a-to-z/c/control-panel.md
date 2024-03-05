@@ -10,7 +10,8 @@ In documentation for a technical audience, refer to *control panel home page* an
 
 When referring to a control panel item’s hub page, use *main \<control panel item name\> page*.
 
-**Examples**  
+## Examples
+
 In Control Panel, select **Network and Internet**, and then select **Internet Options**.  
 To open **Internet Options**, select **Start**, select **Control Panel**, and then select **Network and Internet**. 
 

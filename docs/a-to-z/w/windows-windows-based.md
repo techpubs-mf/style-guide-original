@@ -4,7 +4,8 @@ Use *Windows* as a modifier for aspects or elements of the Windows operating sys
 
 It's OK to use *Windows user* sparingly to avoid awkward constructions, but try to avoid *user* in general.
 
-**Examples**  
+## Examples
+
 Windows app  
 Windows device  
 the Windows Recycle Bin   

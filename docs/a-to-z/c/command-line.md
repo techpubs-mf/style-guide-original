@@ -2,7 +2,8 @@
 
 Two words as a noun. Hyphenate as an adjective.
 
-**Examples**  
+## Examples
+
 command-line parameter   
 command-line tool
 

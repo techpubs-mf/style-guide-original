@@ -4,7 +4,8 @@ Use *zeros,* not *zeroes,* as the plural of *zero*.
 
 When a measurement includes 0, use the plural form of the spelled-out unit of measure.
 
-**Examples**  
+## Examples
+
 0 MB  
 0 megabytes  
 

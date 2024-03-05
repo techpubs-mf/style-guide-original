@@ -8,7 +8,8 @@ to measurement. For other units of measure not covered here, see [*The Chicago M
     numerals for measurements of distance, temperature, volume, size,
     weight, pixels, points, and so on—even if the number is less than
     10\. Add a zero before the decimal point for decimal fractions less than one, unless the customer is asked to enter the value.  
-    **Examples**  
+    ## Examples
+
     3 ft, 5 in.  
     1.76 lb  
     80 × 80 pixels  
@@ -18,7 +19,8 @@ to measurement. For other units of measure not covered here, see [*The Chicago M
     3 cm
     
   - Insert a space between the unit of measure and the numeral, or hyphenate if the measurement modifies a noun.
-    **Examples**  
+    ## Examples
+
     13.5 inches  
     13.5-inch display  
     8.0 MP  
@@ -38,14 +40,16 @@ to measurement. For other units of measure not covered here, see [*The Chicago M
   - When
     the unit of measure is spelled out, use the singular form when the
     number is 1. Use the plural form for all other measurements.  
-    **Examples**  
+    ## Examples
+
     0 points  
     0.5 points  
     1 point  
     12 points
     
   - Spell out *by* in dimensions, except for tile sizes, screen resolutions, and paper sizes. For those, use the multiplication sign (×). Use a space before and after the multiplication sign.  
-    **Examples**  
+    ## Examples
+
     10 by 12 ft room  
     3" by 5" image  
     4 × 4 tile   

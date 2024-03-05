@@ -7,7 +7,8 @@ all uppercase letters for the first-level subtrees,
 separating words with underscore characters. Registry subtrees are
 usually bold.
 
-**Examples**  
+## Examples
+
 **HKEY\_CLASSES\_ROOT**   
 **HKEY\_LOCAL\_MACHINE**
 
@@ -16,7 +17,8 @@ are developer defined and are usually all uppercase or a mix of
 uppercase and lowercase characters, with no underscores. Subkeys are
 usually a mix of uppercase and lowercase characters.
 
-**Examples**  
+## Examples
+
 **SOFTWARE**   
 **ApplicationIdentifier**  
 **CurrentVersion**   

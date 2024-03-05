@@ -2,7 +2,8 @@
 
 In instructions or technical content, use *by using* or *that use* to eliminate ambiguity.
 
-**Examples**  
+## Examples
+
 Refine your pictures by using the photo editor.  
 Azure DNS is a hosting service that uses Azure infrastructure to provide DNS name resolution. 
 

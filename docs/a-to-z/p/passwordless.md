@@ -5,7 +5,8 @@ Avoid. Instead, use wording that's friendlier and more clearly describes the ben
 When you must use *passwordless,* don't include a hyphen, and use it only as an adjective, 
 not as a noun. For example, use "the steps to a passwordless environment" not "the steps to passwordless."   
 
-**Examples**  
+## Examples
+
 Learn why getting rid of passwords is important.  
 Before you can do away with passwords, you need something to replace them.  
 See how a password-free environment works.  

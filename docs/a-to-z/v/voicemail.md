@@ -9,6 +9,7 @@ distinguish these meanings, use *voicemail message* or *message* to refer to an 
 
 Don't use as a verb. Use *leave a voicemail* or *leave a message* instead.
 
-**Examples**  
+## Examples
+
 You have two new voicemails.  
 To respond to the caller with a message ....

@@ -1,7 +1,8 @@
 # Microsoft
 
 Never abbreviate *Microsoft.* Don't use *Microsoft's.*  
-**Examples**  
+## Examples
+
 Microsoft software and services  
 Microsoft Surface  
 the Microsoft approach to diversity and inclusion  
@@ -23,7 +24,8 @@ OK to use phrasing like *we recommend* if it helps you avoid awkward wording lik
 When it's necessary for Microsoft to be the subject, choose the pronouns that best fit your message.
 
 - When the tone is friendly, informative, or inspiring, use *we* and *our.*  
-  **Examples**  
+  ## Examples
+
   We believe in what people make possible.   
   We recommend that you upgrade to the latest version of the service when it becomes available. 
 

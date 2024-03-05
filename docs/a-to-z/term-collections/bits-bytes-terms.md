@@ -8,7 +8,8 @@ In general, spell out *bit* and *byte* terms on the first mention unless:
 In those cases, or after you’ve spelled out the term on the first mention, it’s OK to use abbreviations for *-bit* or *-byte* terms. Use abbreviations only with numbers in specific measurements, such as 128 TB.
 
   - Insert a space between the abbreviation and the numeral, or hyphenate if the measurement modifies a noun.<br />
-    **Examples**  
+    ## Examples
+
 512 gigabytes (GB) of RAM   
 From 1 GB to a maximum of 2 GB  
 23 MB/day  
@@ -20,7 +21,8 @@ a 650-MB limit
     measurements, when the unit of measure isn't abbreviated, use the
     singular form of the unit of measure when the number is 1. Use
     the plural form for all other measurements.<br />
-    **Examples**  
+    ## Examples
+
 0 megabytes  
 0.5 megabytes  
 1 megabyte  

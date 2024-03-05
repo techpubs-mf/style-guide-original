@@ -11,7 +11,8 @@ Error messages should apologize only for things that went wrong with the Microso
 problems that are outside the product, such as a broken link or waiting for a network connection to be found. 
 Consider *Oops* or *Hmm* instead.
 
-**Examples**  
+## Examples
+
 We're sorry, but we detected a problem, and your PC was shut down to protect your files and other data.  
 Sorry, the service isn't available right now.  
 This task couldn't be completed. Please try again.  

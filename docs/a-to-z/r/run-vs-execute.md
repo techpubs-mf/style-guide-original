@@ -4,6 +4,7 @@ Avoid *execute* except to follow the UI. Use *run* instead. If the UI includes *
 
 Always use *run* in the context of operating systems, macros, and queries.
 
-**Examples**  
+## Examples
+
 To run the program, select **Execute**.  
 Commands are run in the order in which they're listed in the file. 

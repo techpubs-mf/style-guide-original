@@ -7,7 +7,8 @@ as an adjective in content for a technical audience if you need to
 describe a transient UI element that displays settings or information
 related to what the customer is doing. 
 
-**Examples**  
+## Examples
+
 flyout menu  
 flyout message  
 flyout control

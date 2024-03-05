@@ -6,7 +6,8 @@ In generic references, lowercase *preview.*
 
 Avoid using *beta* to refer to a prerelease product that's ready for unstructured testing by customers. Use *preview* instead.
 
-**Examples**  
+## Examples
+
 Office 2016 Preview  
 Windows 10 Insider Preview  
 Microsoft Power BI Preview  

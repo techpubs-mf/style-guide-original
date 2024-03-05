@@ -6,6 +6,7 @@ Use *write-protect* as a verb. Use instead of *lock* to refer to the action of p
 
 Use *write-protected* as an adjective.
 
-**Examples**  
+## Examples
+
 to write-protect a disk  
 a write-protected disk 

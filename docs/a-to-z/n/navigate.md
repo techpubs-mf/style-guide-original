@@ -4,7 +4,8 @@ Don't use to describe going from place to place on the internet or an intranet. 
 
 To describe going directly to a webpage or website, whether by entering a URL or selecting a hyperlink, use *go to*. 
 
-**Examples**  
+## Examples
+
 To browse the web, select any link on your home page.   
 To go to a webpage, enter the address of the page in the Address bar, and then select **Go**.
 

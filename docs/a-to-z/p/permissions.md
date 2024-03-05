@@ -10,7 +10,8 @@ If you refer to a named permission, use title-style capitalization and regular t
 
 Don't use *privileges* or *permission records* as a synonym for *permissions*.
 
-**Examples**  
+## Examples
+
 Setting
 the Traverse Folder permission on a folder doesn't automatically
 set the Execute File permission on all files within that folder.  

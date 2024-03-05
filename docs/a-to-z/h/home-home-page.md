@@ -4,7 +4,8 @@ Use *home* to refer to the main page of a website or the page a browser displays
 
 Use *home page,* two words, in generic references if needed for clarity. 
 
-**Examples**  
+## Examples
+
 Select **Home** to return to the main portal page.  
 Use **Settings** to choose the home page you want to see when the browser opens.
 

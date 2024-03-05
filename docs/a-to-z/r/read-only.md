@@ -2,7 +2,8 @@
 
 Always hyphenate.
 
-**Examples**    
+## Examples
+
 read-only memory  
 This file is read-only.
 

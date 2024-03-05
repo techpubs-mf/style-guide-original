@@ -7,7 +7,8 @@ Use *select and hold (or right-click)* when the instruction isn't specific to th
 
 Hyphenate.
 
-**Examples**  
+## Examples
+
 Right-click to select the file.  
 Using the right mouse button (right-click) ….   
 Select and hold (or right-click) the Windows taskbar, and then select **Cascade windows**.  

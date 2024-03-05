@@ -5,7 +5,8 @@ Use the term that makes the most sense for your audience.
 In content for a business or technical audience, it's OK to use *org* as an abbreviation for *organization.* 
 Don't use a period after the abbreviation.
 
-**Examples**  
+## Examples
+
 Get an online org chart application that works with Azure Active Directory and Office 365.  
 How to prepare for your cross-org Exchange migration
 

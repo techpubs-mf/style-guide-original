@@ -6,7 +6,8 @@ Don't use to refer to selecting or clearing check boxes in instructions. Use *se
 
 Use *turned on* and *turned off* instead of *enabled* and *disabled* to refer to commands and features that can be hidden or deactivated.
 
-**Examples**  
+## Examples
+
 To turn on your device ….  
 To turn off pop-up blocking ….  
 To keep all applied filters, turn on the **Pass all filters** toggle.  

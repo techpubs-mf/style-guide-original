@@ -8,7 +8,8 @@ Don't use *on startup* or similar noun phrases in content for a general audience
 
 It's OK to use *startup* as an adjective in phrases such as *startup screen*.
 
-**Examples**  
+## Examples
+
 To open the app, select the icon.  
 When the app opens, a startup screen appears.  
 Open OneNote and start taking notes.  

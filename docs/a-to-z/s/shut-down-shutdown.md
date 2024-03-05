@@ -6,7 +6,8 @@ Use *shut down* to describe exiting the operating system and turning off the dev
 
 Don't use *shut down* to describe turning off a device or as a synonym for *close*.
 
-**Examples**  
+## Examples
+
 To turn off your computer, select **Settings**, and then select **Shut down**.  
 Use the **Shut down** command to safely close open apps, shut down Windows, and turn off the device.   
 Many computers turn the power off automatically.  

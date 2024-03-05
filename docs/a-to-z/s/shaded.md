@@ -6,7 +6,8 @@ Don’t use to describe commands or options that are in an unusable state—use 
 
 It’s OK to use *shaded* to describe the appearance of check boxes that represent a mixture of settings.
 
-**Examples**   
+## Examples
+
 The command isn’t available until you select text.  
 If the option appears dimmed, it's not available.  
 Selected effects appear shaded. 

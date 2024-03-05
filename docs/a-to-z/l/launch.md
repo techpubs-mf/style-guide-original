@@ -2,7 +2,8 @@
 
 Don't use to mean opening an app or form. Use *open* instead.
 
-**Examples**  
+## Examples
+
 Select a tile to open an app.  
 Select **Register** to open the registration form.
 

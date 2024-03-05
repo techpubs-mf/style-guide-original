@@ -6,7 +6,8 @@ When comparing quantities:
   - Use *fewer* to refer to a countable number of items. 
   - Don't use *under* to refer to a quantity or number.
 
-**Examples**  
+## Examples
+
 Create an app in less than 5 minutes.  
 The new building has less floor space and contains fewer offices.  
 The new building has fewer square feet of floor space and contains fewer offices.  

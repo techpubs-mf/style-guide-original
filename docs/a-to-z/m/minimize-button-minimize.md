@@ -4,6 +4,7 @@ Use the ***Minimize*** *button* to refer to the button, not just ***Minimize***.
 
 It's OK to use *minimize* as a verb. 
 
-**Examples**  
+## Examples
+
 Select the **Minimize** button.   
 Select ![](media/minimize-button-minimize/1223646377.png).

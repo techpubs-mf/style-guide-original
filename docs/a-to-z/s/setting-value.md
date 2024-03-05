@@ -2,7 +2,8 @@
 
 Avoid generic nouns, such as *setting* or *value,* in content for a general audience. Use a specific noun, such as *width, color,* or *font,* instead.
 
-**Examples**  
+## Examples
+
 Select a color for an appointment or a meeting.   
 Enter a location for **Tab stop position**.
 

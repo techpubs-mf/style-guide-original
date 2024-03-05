@@ -2,7 +2,8 @@
 
 Use *from* to indicate a specific place or time as a starting point. 
 
-**Examples**  
+## Examples
+
 Paste the text from the clipboard.  
 From the time you set the clock, the alarm is active.
 

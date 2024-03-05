@@ -9,7 +9,8 @@ It’s OK to use *pop-up window* to refer to windows that pop up in Help. Don’
 It’s OK to use
 *pop-up menu* for a programming audience to describe the menu that appears when a customer right-clicks an item. If you must use a term to describe this type of menu in content for a general audience, use *shortcut menu*.
 
-**Examples**  
+## Examples
+
 Answer the questions in the wizard as they appear.   
 Some commands carry out an action immediately. Others open a dialog box so that you can select options.  
 A pop-up window gives additional information about an option.  

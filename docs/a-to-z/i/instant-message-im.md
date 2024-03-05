@@ -7,7 +7,8 @@ Don't use *instant message* or *IM* as a verb. Use *send an instant message* or 
 **Exception**  
 In mobile UI content or to form a parallel construction with another one-word phrase, it's OK to use *IM* as a verb. For example, *tap a name to call or IM someone*.
 
-**Examples**  
+## Examples
+
 To send an instant message, select **Send IM**  on the toolbar.   
 Customize instant messaging features based on your friends, family, and work contacts. 
 

@@ -5,7 +5,8 @@ for list headings, descriptions, and other contexts that might include
 named dependencies or disputed territories. In general discussions, use
 just *country.* Don't use *geography* or *geo* as a synonym for *country* or *country or region.*
 
-**Examples**  
+## Examples
+
 This product isn't available in some countries.  
 Enter your country or region.
 

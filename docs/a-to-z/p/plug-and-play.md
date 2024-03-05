@@ -10,7 +10,8 @@ It's OK to use all lowercase (*plug and play*) for all audiences to refer to the
 
 Don't use as a synonym for *Universal Plug and Play* (UPnP). 
 
-**Examples**  
+## Examples
+
 Plug and Play functionality  
 Plug and Play printer   
 Plug and Play records the information in an event log.

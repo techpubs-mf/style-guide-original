@@ -4,6 +4,7 @@ Use the multiplication sign (×), not the letter *x,* to indicate the mathematic
 
 Use × to mean *by* when you refer to screen resolution or dimensions.
 
-**Examples**  
+## Examples
+
 48 × 48 pixels  
 The application icon should be 62 × 62 pixels and PNG format.

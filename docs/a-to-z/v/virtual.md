@@ -7,7 +7,8 @@ example, a *virtual machine* isn't an actual computer; it's something that emula
 
 Don't use in content for a general audience.
 
-**Examples**  
+## Examples
+
 Each Azure service is supported by a different type of virtual machine.  
 virtual desktop  
 virtual memory  
