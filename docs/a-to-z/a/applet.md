@@ -4,7 +4,12 @@ Use to refer to an HTML-based program that a browser downloads temporarily to a 
 
 In general, when referring to a small program, use the name of the program or the most appropriate term, such as *item, app, program, add-in,* or *applet.*
 
-**Example**  
+## Example
+
 A Java applet in an HTML document supports animation, music, and page updates.
 
-**See also** <br />[add-in, add-on](/a-to-z/a/add-in-add-on.md),<br />[app, application](/a-to-z/a/app-application.md), <br />[tool](/a-to-z/t/tool.md)
+## See also
+
+- [add-in, add-on](/a-to-z/a/add-in-add-on.md)
+- [app, application](/a-to-z/a/app-application.md)
+- [tool](/a-to-z/t/tool.md)
